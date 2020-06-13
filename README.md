@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="/img/LOGO JONH SELMO.png" width=40% >
+  <img src="/img/LOGO JONH SELMO.png" width=80% >
 </p>
 
 # Jonh Selmo
