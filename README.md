@@ -22,11 +22,9 @@ Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habi
 
 
 ## Projetos:
-Análise Exploratória de Dados - Airbnb: https://bit.ly/37ef1GK
+* Análise Exploratória de Dados - Airbnb: https://bit.ly/37ef1GK
 
-* **Codenation:** 
-Participando do Aceleradev
-
+* **Codenation:** Participando do Aceleradev
 
 ---
 
