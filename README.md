@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="/img/LOGO JONHSELMO.png" >
+  <img src="/img/LOGO JONH SELMO.png" >
 </p>
 
 # Jonh Selmo
