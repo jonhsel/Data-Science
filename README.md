@@ -13,7 +13,7 @@
 
 Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habiliatação em engenharia de controle e automação.Trabalho no Ministério Público do Estado do Maranhão, onde realizado análise de dados da criminalidade no estado.
 
-**Background in:** Python, análise da dados
+**Background in:** Python, Pandas, Streamlit
 
 **Links:**
 * [Blog](http://jonhselmo.com.br)
