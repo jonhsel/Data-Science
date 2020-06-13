@@ -16,8 +16,8 @@ Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habi
 **Background in:** Python, Pandas, Streamlit
 
 **Links:**
-* [Blog](http://jonhselmo.com.br)
-* [LinkedIn](https://www.linkedin.com/in/jonh-selmo-956aa630)
+* [Blog](https://bit.ly/2MU9P1n)
+* [LinkedIn](https://bit.ly/3cZYI1w)
 
 
 
