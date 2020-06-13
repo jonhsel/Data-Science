@@ -9,7 +9,7 @@
 </p>
 
 # Jonh Selmo
-<sub>*Engenheiro de Computação</sub>
+<sub>Engenheiro de Computação</sub>
 
 Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habiliatação em engenharia de controle e automação.Trabalho no Ministério Público do Estado do Maranhão, onde realizado análise de dados da criminalidade no estado. Atualmente, estou desenvolvendo skills em Data Science.
 
