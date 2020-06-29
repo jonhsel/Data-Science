@@ -18,13 +18,14 @@ Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habi
 **Links:**
 * [Blog](https://bit.ly/2MU9P1n)
 * [LinkedIn](https://bit.ly/3cZYI1w)
+* [Instagram](https://bit.ly/3g9lOof)
+* [Twitter](https://twitter.com/jonhselmo)
 
 
 
-## Projetos:
+## Projetos elaborados:
 * Análise Exploratória de Dados - Airbnb: https://bit.ly/37ef1GK
-
-* **Codenation:** Participando do Aceleradev
+* Covid-19 no Brasil e no Mundo - Análise de dados: https://bit.ly/2BOL30c
 
 ---
 
