@@ -1,0 +1,1537 @@
+ID,Data,Sexo,Idade,Horário,CAUSA DA MORTE,Local,Município,Classificação
+1,01/01/2017,masculino,22,03:01:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+2,01/01/2017,masculino,30,00:21:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+3,01/01/2017,masculino,23,18:30:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+4,01/01/2017,masculino,38,20:21:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+5,01/01/2017,feminino,49,23:22:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+6,02/01/2017,masculino,19,21:30:00,ARMA BRANCA,Itapeua,Raposa,HOMICÍDIO DOLOSO
+7,02/01/2017,masculino,26,06:00:00,ARMA BRANCA,Trizidela da Maioba,Paço do Lumiar,HOMICÍDIO DOLOSO
+8,03/01/2017,masculino,36,16:40:00,ARMA DE FOGO,Quinta,São José de Ribamar,LESÃO C S MORTE
+9,04/01/2017,masculino,33,19:25:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+10,04/01/2017,masculino,18,21:41:00,ARMA DE FOGO,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+11,04/01/2017,masculino,17,20:35:00,ARMA DE FOGO,Rio Grande,São Luís,LESÃO C S MORTE
+12,05/01/2017,masculino,17,19:25:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+13,06/01/2017,masculino,49,02:45:00,ESPANCAMENTO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+14,06/01/2017,masculino,35,20:32:00,ARMA DE FOGO,Divinéia,São Luís,HOMICÍDIO DOLOSO
+15,06/01/2017,masculino,25,21:46:00,ARMA DE FOGO,Itapeua,Raposa,HOMICÍDIO DOLOSO
+16,06/01/2017,masculino,18,18:45:00,ESPANCAMENTO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+17,06/01/2017,masculino,16,22:00:00,ARMA DE FOGO,Vila Luizão,São Luís,MORTE ESCLARECER
+18,07/01/2017,masculino,51,20:17:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+19,07/01/2017,masculino,40,20:50:00,ARMA DE FOGO,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+20,07/01/2017,masculino,17,20:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+21,07/01/2017,masculino,31,16:29:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+22,07/01/2017,masculino,24,16:29:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+23,08/01/2017,masculino,22,02:30:00,ARMA BRANCA,Residencial Nova Vida,Paço do Lumiar,HOMICÍDIO DOLOSO
+24,08/01/2017,masculino,21,16:55:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+25,09/01/2017,masculino,27,08:25:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+26,10/01/2017,masculino,29,20:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+27,11/01/2017,masculino,17,11:04:00,ARMA DE FOGO,Residencial Tiradentes,São Luís,HOMICÍDIO DOLOSO
+28,12/01/2017,masculino,26,03:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+29,12/01/2017,masculino,25,01:41:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+30,12/01/2017,masculino,44,14:18:00,ARMA DE FOGO,Residencial Ribeira,São Luís,HOMICÍDIO DOLOSO
+31,13/01/2017,masculino,19,18:00:00,ARMA DE FOGO,Batatan,São Luís,HOMICÍDIO DOLOSO
+32,14/01/2017,masculino,20,11:12:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+33,14/01/2017,masculino,36,23:00:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+34,14/01/2017,masculino,20,18:40:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+35,15/01/2017,masculino,16,21:35:00,ARMA BRANCA,Cajazeiras,São Luís,HOMICÍDIO DOLOSO
+36,15/01/2017,masculino,35,08:59:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+37,15/01/2017,masculino,18,13:48:00,ARMA DE FOGO,Vila Samara,São Luís,HOMICÍDIO DOLOSO
+38,17/01/2017,masculino,22,20:00:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+39,17/01/2017,masculino,30,03:00:00,ARMA BRANCA,Residencial Novo Horizonte,São Luís,HOMICÍDIO DOLOSO
+40,19/01/2017,masculino,32,12:16:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+41,19/01/2017,masculino,38,18:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+42,19/01/2017,masculino,31,17:49:00,ARMA DE FOGO,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+43,14/01/2017,masculino,23,,ARMA DE FOGO,,,MORTE ESCLARECER
+44,20/01/2017,masculino,27,09:39:00,ARMA DE FOGO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+45,21/01/2017,masculino,23,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+46,21/01/2017,masculino,20,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+47,21/01/2017,masculino,34,11:57:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+48,21/01/2017,masculino,40,21:41:00,ARMA DE FOGO,Residencial Nova Canaã,Paço do Lumiar,HOMICÍDIO DOLOSO
+49,22/01/2017,masculino,19,22:04:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+50,22/01/2017,masculino,33,20:27:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+51,22/01/2017,masculino,6,20:27:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+52,24/01/2017,masculino,18,04:28:00,ARMA DE FOGO,Bequimão,São Luís,HOMICÍDIO DOLOSO
+53,24/01/2017,masculino,33,01:18:00,ARMA BRANCA,Planalto Anil I,São Luís,HOMICÍDIO DOLOSO
+54,25/01/2017,masculino,17,20:50:00,ARMA DE FOGO,Recanto Fialho,São Luís,HOMICÍDIO DOLOSO
+55,25/01/2017,feminino,22,21:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+56,26/01/2017,masculino,41,07:03:00,ARMA DE FOGO,Alto do Turu III,São José de Ribamar,HOMICÍDIO DOLOSO
+57,26/01/2017,masculino,29,10:00:00,ARMA DE FOGO,Jambeiro,São Luís,HOMICÍDIO DOLOSO
+58,26/01/2017,masculino,65,07:10:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+59,27/01/2017,masculino,29,19:30:00,ARMA BRANCA,Paraíso das Rosas,São José de Ribamar,HOMICÍDIO DOLOSO
+60,27/01/2017,masculino,16,19:00:00,ARMA DE FOGO,Vila Maranhão,São Luís,HOMICÍDIO DOLOSO
+61,28/01/2017,masculino,29,20:36:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,HOMICÍDIO DOLOSO
+62,28/01/2017,masculino,34,06:32:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+63,28/01/2017,masculino,31,11:47:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+64,28/01/2017,masculino,22,20:44:00,ARMA DE FOGO,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+65,28/01/2017,masculino,21,19:47:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+66,29/01/2017,masculino,33,08:41:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+67,29/01/2017,masculino,30,06:45:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+68,29/01/2017,masculino,23,03:54:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+69,29/01/2017,masculino,30,05:35:00,ARMA BRANCA,Tijupá Queimado,São José de Ribamar,HOMICÍDIO DOLOSO
+70,30/01/2017,masculino,28,15:00:00,ARMA DE FOGO,Ipase de Baixo,São Luís,LESÃO C S MORTE
+71,30/01/2017,masculino,30,01:45:00,ARMA DE FOGO,Parque Shalon,São Luís,HOMICÍDIO DOLOSO
+72,30/01/2017,masculino,53,07:00:00,ARMA BRANCA,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+73,30/01/2017,masculino,45,10:55:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+74,31/01/2017,masculino,17,00:20:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+75,31/01/2017,masculino,33,19:56:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+76,31/01/2017,masculino,29,,ARMA BRANCA,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+77,31/01/2017,masculino,36,20:02:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+78,31/01/2017,masculino,18,12:33:00,ARMA DE FOGO,Vila Kiola I,São José de Ribamar,HOMICÍDIO DOLOSO
+79,01/02/2017,masculino,52,,ARMA BRANCA,Andiroba,São Luís,HOMICÍDIO DOLOSO
+80,01/02/2017,feminino,48,20:02:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE ESCLARECER
+81,01/02/2017,masculino,34,21:13:00,ARMA DE FOGO,Piancó,São Luís,HOMICÍDIO DOLOSO
+82,02/02/2017,masculino,49,14:10:00,ARMA BRANCA,Conjunto Lima Verde,Paço do Lumiar,LATROCÍNIO
+83,02/02/2017,masculino,24,20:07:00,ARMA DE FOGO,Farol do Araçagy,Raposa,MORTE D I POLICIAL
+84,02/02/2017,masculino,14,15:02:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+85,02/02/2017,feminino,51,20:07:00,ARMA DE FOGO,Residencial Vista do Mar,Raposa,LATROCÍNIO
+86,03/02/2017,feminino,17,22:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+87,03/02/2017,masculino,55,15:22:00,ARMA DE FOGO,Centro-PCL,Paço do Lumiar,LATROCÍNIO
+88,03/02/2017,masculino,35,01:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,MORTE D I POLICIAL
+89,03/02/2017,masculino,32,18:47:00,ARMA BRANCA,Tibiri,São Luís,HOMICÍDIO DOLOSO
+90,04/02/2017,masculino,23,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+91,04/02/2017,masculino,18,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+92,05/02/2017,feminino,16,00:01:00,ARMA BRANCA,Barreto,São Luís,HOMICÍDIO DOLOSO
+93,05/02/2017,masculino,27,11:57:00,ARMA DE FOGO,Solar dos Lusitanos,São Luís,HOMICÍDIO DOLOSO
+94,05/02/2017,feminino,46,05:02:00,ARMA BRANCA,Vila São José – PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+95,05/02/2017,masculino,30,19:00:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+96,05/02/2017,masculino,26,16:00:00,ESPANCAMENTO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+97,05/02/2017,masculino,30,19:00:00,ESPANCAMENTO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+98,06/02/2017,masculino,29,13:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+99,06/02/2017,masculino,20,01:19:00,ARMA DE FOGO,Residencial Magnólia,São Luís,HOMICÍDIO DOLOSO
+100,06/02/2017,masculino,22,21:06:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+101,07/02/2017,masculino,16,18:22:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+102,07/02/2017,masculino,27,15:21:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+103,07/02/2017,masculino,19,12:13:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+104,08/02/2017,masculino,24,19:46:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+105,08/02/2017,masculino,38,20:53:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+106,09/02/2017,masculino,31,02:00:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+107,09/02/2017,feminino,33,02:00:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+108,09/02/2017,masculino,58,19:00:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+109,09/02/2017,masculino,17,03:10:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+110,09/02/2017,masculino,46,06:30:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+111,11/02/2017,masculino,50,02:00:00,ARMA BRANCA,Vila Mauro Fecury I,São Luís,HOMICÍDIO DOLOSO
+112,12/02/2017,masculino,36,06:30:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+113,12/02/2017,masculino,22,03:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+114,12/02/2017,feminino,44,23:11:00,ESPANCAMENTO,Piçarreira,São José de Ribamar,HOMICÍDIO DOLOSO
+115,12/02/2017,masculino,31,21:30:00,ARMA DE FOGO,Vila Mauro Fecury I,São Luís,HOMICÍDIO DOLOSO
+116,12/02/2017,masculino,38,05:52:00,ARMA BRANCA,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+117,13/02/2017,masculino,34,20:16:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,HOMICÍDIO DOLOSO
+118,14/02/2017,masculino,23,20:22:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,HOMICÍDIO DOLOSO
+119,14/02/2017,masculino,56,07:36:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+120,14/02/2017,masculino,30,19:15:00,ARMA DE FOGO,Vila Sarney Filho II,São José de Ribamar,HOMICÍDIO DOLOSO
+121,15/02/2017,masculino,23,09:43:00,ARMA DE FOGO,Vila União,São Luís,HOMICÍDIO DOLOSO
+122,16/02/2017,masculino,30,05:24:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+123,17/02/2017,masculino,16,18:01:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+124,17/02/2017,masculino,30,09:38:00,ARMA BRANCA,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+125,18/02/2017,masculino,29,20:40:00,ARMA DE FOGO,Cohama,São Luís,HOMICÍDIO DOLOSO
+126,18/02/2017,masculino,16,19:29:00,ARMA DE FOGO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+127,19/02/2017,masculino,20,13:03:00,ARMA DE FOGO,Apeadouro,São Luís,HOMICÍDIO DOLOSO
+128,20/02/2017,masculino,17,23:27:00,ARMA DE FOGO,Vila Industrial,São Luís,HOMICÍDIO DOLOSO
+129,20/02/2017,feminino,17,20:40:00,ARMA DE FOGO,Vila Luizão,São Luís,HOMICÍDIO DOLOSO
+130,21/02/2017,masculino,25,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+131,22/02/2017,masculino,25,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+132,22/02/2017,masculino,18,21:11:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+133,22/02/2017,masculino,31,03:49:00,ARMA DE FOGO,Sítio do Apicum,São José de Ribamar,LATROCÍNIO
+134,22/02/2017,masculino,15,03:49:00,ARMA DE FOGO,Sítio do Apicum,São José de Ribamar,LATROCÍNIO
+135,22/02/2017,masculino,57,20:10:00,ARMA DE FOGO,Vila Nova-Bacanga,São Luís,HOMICÍDIO DOLOSO
+136,22/02/2017,masculino,16,21:00:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+137,23/02/2017,masculino,54,16:18:00,ARMA BRANCA,Fátima,São Luís,HOMICÍDIO DOLOSO
+138,23/02/2017,masculino,41,19:00:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+139,23/02/2017,masculino,33,05:53:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+140,24/02/2017,masculino,15,16:00:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,HOMICÍDIO DOLOSO
+141,25/02/2017,masculino,34,16:55:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+142,25/02/2017,masculino,33,20:51:00,ESPANCAMENTO,Estiva,São Luís,HOMICÍDIO DOLOSO
+143,25/02/2017,masculino,26,11:21:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+144,25/02/2017,masculino,19,19:39:00,ARMA BRANCA,Residencial Maria Aragão,São Luís,HOMICÍDIO DOLOSO
+145,25/02/2017,masculino,24,01:00:00,ARMA DE FOGO,Vila Cutia,São Luís,HOMICÍDIO DOLOSO
+146,26/02/2017,masculino,22,16:21:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+147,26/02/2017,masculino,42,13:23:00,ARMA BRANCA,Gapara,São Luís,HOMICÍDIO DOLOSO
+148,26/02/2017,masculino,17,05:10:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+149,27/02/2017,masculino,21,22:00:00,ARMA DE FOGO,Matinha,São José de Ribamar,LATROCÍNIO
+150,28/02/2017,masculino,29,23:57:00,ARMA DE FOGO,João de Deus,São Luís,HOMICÍDIO DOLOSO
+151,01/03/2017,masculino,40,02:02:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+152,02/03/2017,masculino,21,15:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,LESÃO C S MORTE
+153,02/03/2017,masculino,16,00:22:00,ARMA BRANCA,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+154,02/03/2017,masculino,17,00:22:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+155,05/03/2017,masculino,45,16:08:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+156,06/03/2017,masculino,19,12:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+157,06/03/2017,masculino,19,08:44:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+158,07/03/2017,masculino,26,18:06:00,ARMA DE FOGO,Cidade Operária,São Luís,LATROCÍNIO
+159,07/03/2017,masculino,19,06:41:00,ARMA DE FOGO,Planalto Anil IV,São Luís,HOMICÍDIO DOLOSO
+160,07/03/2017,masculino,54,05:47:00,ARMA DE FOGO,São Raimundo,São Luís,LATROCÍNIO
+161,08/03/2017,masculino,34,20:33:00,ARMA DE FOGO,Aurora,São Luís,HOMICÍDIO DOLOSO
+162,08/03/2017,masculino,22,22:54:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+163,08/03/2017,masculino,35,20:04:00,ARMA DE FOGO,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+164,10/03/2017,masculino,22,08:54:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+165,10/03/2017,masculino,23,15:51:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+166,11/03/2017,masculino,27,20:00:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+167,11/03/2017,masculino,34,21:35:00,ARMA DE FOGO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+168,12/03/2017,masculino,24,10:21:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+169,12/03/2017,masculino,31,08:59:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+170,12/03/2017,masculino,21,03:44:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+171,12/03/2017,masculino,20,00:08:00,ESPANCAMENTO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+172,13/03/2017,masculino,22,17:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+173,14/03/2017,masculino,20,21:00:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,HOMICÍDIO DOLOSO
+174,15/03/2017,masculino,18,19:00:00,ARMA BRANCA,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+175,15/03/2017,feminino,51,19:00:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+176,16/03/2017,masculino,41,13:30:00,ESPANCAMENTO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+177,17/03/2017,masculino,20,20:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,LESÃO C S MORTE
+178,17/03/2017,masculino,18,20:03:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+179,17/03/2017,masculino,31,21:44:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+180,17/03/2017,masculino,23,21:56:00,ARMA DE FOGO,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+181,17/03/2017,masculino,21,20:23:00,ARMA DE FOGO,Vila Santa Terezinha,São José de Ribamar,LATROCÍNIO
+182,18/03/2017,masculino,22,17:37:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+183,18/03/2017,masculino,43,13:47:00,ARMA DE FOGO,Apaco,São Luís,HOMICÍDIO DOLOSO
+184,18/03/2017,masculino,20,20:29:00,ARMA DE FOGO,Quebra Pote,São Luís,HOMICÍDIO DOLOSO
+185,19/03/2017,masculino,22,03:52:00,ARMA DE FOGO,Coroado,São Luís,HOMICÍDIO DOLOSO
+186,19/03/2017,masculino,26,15:21:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+187,19/03/2017,masculino,25,04:30:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+188,20/03/2017,masculino,22,21:00:00,ARMA DE FOGO,João Paulo,São Luís,LESÃO C S MORTE
+189,20/03/2020,masculino,33,03:40:00,ARMA DE FOGO,Anjo da Guarda,São Luís,MORTE D I POLICIAL
+190,20/03/2017,masculino,30,23:54:00,ARMA BRANCA,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+191,21/03/2017,masculino,21,11:01:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,HOMICÍDIO DOLOSO
+192,22/03/2017,masculino,16,18:49:00,ARMA DE FOGO,Cidade Operária,São Luís,LATROCÍNIO
+193,23/03/2017,masculino,27,20:43:00,ARMA DE FOGO,Conjunto Paranã I,Paço do Lumiar,HOMICÍDIO DOLOSO
+194,23/03/2017,masculino,34,23:30:00,ARMA BRANCA,Coroadinho,São Luís,LESÃO C S MORTE
+195,23/03/2017,masculino,30,19:47:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+196,23/03/2017,masculino,15,22:04:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+197,24/03/2017,masculino,13,17:00:00,ARMA DE FOGO,Caratatíua,São Luís,HOMICÍDIO DOLOSO
+198,24/03/2017,masculino,44,19:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,HOMICÍDIO DOLOSO
+199,25/03/2017,masculino,25,04:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+200,25/03/2017,masculino,40,22:56:00,ARMA DE FOGO,Fumacê,São Luís,HOMICÍDIO DOLOSO
+201,26/03/2020,masculino,31,12:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+202,26/03/2020,masculino,19,12:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+203,26/03/2017,masculino,31,21:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+204,27/03/2017,masculino,18,13:00:00,ARMA DE FOGO,Aurora,São Luís,HOMICÍDIO DOLOSO
+205,27/03/2017,masculino,44,04:06:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+206,27/03/2017,masculino,28,18:43:00,ARMA DE FOGO,Bom Jesus,São Luís,HOMICÍDIO DOLOSO
+207,27/03/2017,masculino,32,22:33:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+208,27/03/2017,masculino,28,12:30:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+209,28/03/2017,masculino,24,15:13:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+210,28/03/2017,masculino,19,07:48:00,OUTROS MEIOS,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+211,28/03/2017,masculino,17,23:34:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+212,29/03/2017,masculino,46,20:07:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+213,29/03/2017,masculino,23,05:44:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+214,31/03/2017,masculino,29,19:32:00,ARMA DE FOGO,Vinhais Velho,São Luís,HOMICÍDIO DOLOSO
+215,01/04/2017,masculino,37,22:30:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+216,01/04/2017,masculino,25,22:25:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+217,01/04/2017,masculino,34,08:00:00,ARMA DE FOGO,Residencial Marcelo Dino,São Luís,HOMICÍDIO DOLOSO
+218,02/04/2017,masculino,32,08:22:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,MORTE D I POLICIAL
+219,02/04/2017,masculino,25,08:22:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+220,03/04/2017,masculino,21,19:42:00,ARMA DE FOGO,Anjo da Guarda,São Luís,MORTE D I POLICIAL
+221,03/04/2017,masculino,31,18:17:00,ARMA BRANCA,Residencial Carlos Augusto,Paço do Lumiar,HOMICÍDIO DOLOSO
+222,05/04/2017,masculino,13,20:21:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+223,06/04/2017,masculino,16,13:40:00,ARMA DE FOGO,Conjunto Paranã III,Paço do Lumiar,MORTE D I POLICIAL
+224,06/04/2017,masculino,23,09:56:00,ARMA BRANCA,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+225,07/04/2017,masculino,67,18:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+226,07/04/2017,masculino,34,14:58:00,ARMA DE FOGO,Santana,São José de Ribamar,HOMICÍDIO DOLOSO
+227,07/04/2017,masculino,36,14:58:00,ARMA DE FOGO,Santana,São José de Ribamar,HOMICÍDIO DOLOSO
+228,07/04/2017,masculino,14,12:36:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+229,08/04/2017,masculino,31,10:21:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+230,08/04/2017,masculino,37,23:05:00,ARMA DE FOGO,Goiabal,São Luís,HOMICÍDIO DOLOSO
+231,09/04/2017,masculino,33,05:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+232,11/04/2017,masculino,21,19:12:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+233,11/04/2017,masculino,21,19:12:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+234,13/04/2017,masculino,34,04:27:00,ARMA DE FOGO,Cohab-Anil IV,São Luís,HOMICÍDIO DOLOSO
+235,13/04/2017,masculino,40,20:32:00,ARMA DE FOGO,Vila Bom Viver,Raposa,HOMICÍDIO DOLOSO
+236,13/04/2017,masculino,21,21:09:00,ARMA DE FOGO,São Francisco,São Luís,HOMICÍDIO DOLOSO
+237,14/04/2017,masculino,34,23:30:00,ARMA DE FOGO,Camboa,São Luís,LESÃO C S MORTE
+238,15/04/2017,masculino,32,05:04:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+239,15/04/2017,masculino,35,23:37:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+240,16/04/2017,masculino,38,19:00:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+241,16/04/2017,masculino,27,21:23:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+242,17/04/2017,masculino,18,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+243,17/04/2017,masculino,25,06:20:00,ESPANCAMENTO,Residencial Novo Horizonte,Paço do Lumiar,HOMICÍDIO DOLOSO
+244,18/04/2017,masculino,43,21:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+245,19/04/2017,masculino,41,14:38:00,ARMA DE FOGO,Mocajituba,Paço do Lumiar,HOMICÍDIO DOLOSO
+246,19/04/2017,masculino,28,20:13:00,ARMA DE FOGO,Vila Industrial,São Luís,HOMICÍDIO DOLOSO
+247,21/04/2017,masculino,19,12:55:00,ARMA DE FOGO,Ivar Saldanha,São Luís,HOMICÍDIO DOLOSO
+248,21/04/2017,masculino,29,15:37:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+249,22/04/2017,masculino,42,19:30:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+250,23/04/2017,masculino,42,22:45:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+251,24/04/2017,masculino,30,18:51:00,ARMA BRANCA,Parque Nice Lobão,São Luís,HOMICÍDIO DOLOSO
+252,24/04/2017,masculino,58,14:00:00,ARMA DE FOGO,Tamancão,São Luís,HOMICÍDIO DOLOSO
+253,24/04/2017,masculino,22,23:50:00,ARMA DE FOGO,Vila Nazaré,São José de Ribamar,HOMICÍDIO DOLOSO
+254,25/04/2017,masculino,68,16:30:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+255,25/04/2017,masculino,17,18:07:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+256,25/04/2017,masculino,21,20:54:00,ESPANCAMENTO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+257,26/04/2017,masculino,17,02:08:00,ARMA DE FOGO,Vicente Fialho,São Luís,MORTE D I POLICIAL
+258,26/04/2017,masculino,41,18:35:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+259,26/04/2017,masculino,15,13:50:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+260,28/04/2017,masculino,29,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+261,28/04/2017,masculino,26,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+262,28/04/2017,masculino,16,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+263,28/04/2017,masculino,18,21:00:00,ARMA DE FOGO,Apeadouro,São Luís,MORTE D I POLICIAL
+264,28/04/2017,masculino,40,06:18:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+265,29/04/2017,masculino,25,06:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,MORTE D I POLICIAL
+266,29/04/2017,masculino,31,05:40:00,ARMA BRANCA,Trizidela da Maioba,São José de Ribamar,HOMICÍDIO DOLOSO
+267,30/04/2017,masculino,17,23:00:00,ARMA DE FOGO,Cohatrac IV,São Luís,HOMICÍDIO DOLOSO
+268,30/04/2017,masculino,35,03:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+269,30/04/2017,masculino,20,20:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+270,01/05/2017,masculino,28,02:35:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+271,04/05/2017,masculino,28,18:59:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+272,05/05/2017,masculino,17,20:16:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+273,05/05/2017,masculino,29,09:15:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+274,06/05/2017,masculino,23,23:44:00,ARMA DE FOGO,Jardim Tropical II,São José de Ribamar,HOMICÍDIO DOLOSO
+275,06/05/2017,masculino,30,01:00:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+276,06/05/2017,masculino,15,19:08:00,ARMA DE FOGO,Parque Pindorama,São Luís,HOMICÍDIO DOLOSO
+277,07/05/2017,masculino,16,18:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+278,07/05/2017,masculino,27,02:00:00,ARMA DE FOGO,,,HOMICÍDIO DOLOSO
+279,07/05/2017,masculino,20,19:54:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+280,08/05/2017,masculino,29,21:30:00,ARMA BRANCA,Iguaíba,Paço do Lumiar,HOMICÍDIO DOLOSO
+281,08/05/2017,masculino,35,05:30:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+282,09/05/2017,masculino,30,19:30:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+283,10/05/2017,feminino,41,21:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,LESÃO C S MORTE
+284,11/05/2017,masculino,35,05:20:00,ARMA DE FOGO,,,HOMICÍDIO DOLOSO
+285,12/05/2017,masculino,28,14:28:00,ARMA DE FOGO,Recanto do Turu,São José de Ribamar,MORTE D I POLICIAL
+286,13/05/2017,masculino,29,01:07:00,ARMA BRANCA,Itapera,São Luís,HOMICÍDIO DOLOSO
+287,13/05/2017,masculino,24,18:23:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+288,13/05/2017,masculino,26,10:20:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+289,14/05/2017,masculino,41,08:22:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+290,14/05/2017,masculino,54,20:25:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,HOMICÍDIO DOLOSO
+291,14/05/2017,masculino,31,23:00:00,ARMA DE FOGO,Residencial Carlos Augusto,Paço do Lumiar,HOMICÍDIO DOLOSO
+292,14/05/2017,masculino,24,04:00:00,ESPANCAMENTO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+293,15/05/2017,masculino,29,22:15:00,ARMA BRANCA,Alto da Esperança,São Luís,HOMICÍDIO DOLOSO
+294,15/05/2017,masculino,27,16:20:00,ARMA BRANCA,Boa Viagem,São José de Ribamar,HOMICÍDIO DOLOSO
+295,15/05/2017,masculino,61,02:30:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+296,16/05/2017,masculino,32,21:39:00,ARMA DE FOGO,Vila Arari,São Luís,HOMICÍDIO DOLOSO
+297,18/05/2017,masculino,23,22:32:00,ARMA DE FOGO,Caratatiua,São Luís,MORTE D I POLICIAL
+298,20/05/2017,masculino,22,16:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+299,20/05/2017,masculino,23,01:16:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+300,21/05/2017,masculino,34,20:17:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+301,21/05/2017,masculino,32,20:17:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+302,21/05/2017,masculino,17,20:19:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+303,21/05/2017,masculino,27,20:35:00,ARMA DE FOGO,Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+304,21/05/2017,masculino,32,08:28:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+305,21/05/2017,masculino,32,03:33:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+306,21/05/2017,masculino,40,00:02:00,ARMA BRANCA,São Francisco,São Luís,HOMICÍDIO DOLOSO
+307,22/05/2017,masculino,23,01:31:00,ARMA DE FOGO,Itapera,São Luís,MORTE D I POLICIAL
+308,22/05/2017,masculino,19,15:11:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+309,23/05/2017,masculino,36,17:11:00,ARMA DE FOGO,Vila Conceição – Altos do Calhau,São Luís,MORTE D I POLICIAL
+310,23/05/2017,masculino,40,17:11:00,ARMA DE FOGO,Vila Conceição – Altos do Calhau,São Luís,MORTE D I POLICIAL
+311,23/05/2017,masculino,23,13:00:00,ARMA BRANCA,Fátima,São Luís,HOMICÍDIO DOLOSO
+312,23/05/2017,masculino,25,17:22:00,ARMA DE FOGO,Parque Araçagi,Paço do Lumiar,HOMICÍDIO DOLOSO
+313,23/05/2017,masculino,37,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+314,26/05/2017,masculino,20,20:21:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,HOMICÍDIO DOLOSO
+315,26/05/2017,masculino,26,10:43:00,ARMA DE FOGO,Ponta da Madeira,São Luís,HOMICÍDIO DOLOSO
+316,27/05/2017,masculino,30,22:30:00,ARMA DE FOGO,Santa Efigênia,São Luís,MORTE D I POLICIAL
+317,27/05/2017,masculino,17,10:00:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+318,27/05/2017,masculino,42,09:00:00,ARMA BRANCA,Liberdade,São Luís,HOMICÍDIO DOLOSO
+319,29/05/2017,masculino,22,10:27:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+320,30/05/2017,masculino,18,13:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+321,30/05/2017,masculino,27,19:57:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+322,30/05/2017,masculino,24,09:40:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+323,31/05/2017,masculino,45,19:45:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+324,31/05/2017,masculino,24,00:30:00,ARMA DE FOGO,,,MORTE ESCLARECER
+325,31/05/2017,masculino,30,21:42:00,ESPANCAMENTO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+326,01/06/2017,masculino,19,09:15:00,ARMA DE FOGO,Primavera/Coroadinho,São Luís,
+327,01/06/2017,masculino,20,10:56:00,ARMA DE FOGO,Estiva,São Luís,
+328,01/06/2017,masculino,17,10:28:00,ARMA BRANCA,Vila Luizão,São Luís,
+329,03/06/2017,masculino,30,10:39:00,ARMA DE FOGO,Coroadinho,São Luís,
+330,03/06/2017,masculino,21,21:05:00,ARMA DE FOGO,Liberdade,São Luís,
+331,03/06/2017,masculino,44,16:57:00,ESPANCAMENTO,Sacavém,São Luís,
+332,05/06/2017,masculino,15,22:10:00,ARMA DE FOGO,Tibiri,São Luís,
+333,06/06/2017,masculino,53,21:10:00,ARMA DE FOGO,Centro-PCL,Paço do Lumiar,
+334,06/06/2017,masculino,19,20:12:00,ARMA DE FOGO,Coroadinho,São Luís,
+335,06/06/2017,masculino,23,17:29:00,ARMA DE FOGO,Fabril,São Luís,
+336,06/06/2017,masculino,24,17:29:00,ARMA DE FOGO,Fabril,São Luís,
+337,08/06/2017,masculino,21,09:40:00,ARMA DE FOGO,Mata,São José de Ribamar,
+338,08/06/2017,masculino,33,21:16:00,ARMA DE FOGO,Vila Sarney Filho I,São José de Ribamar,
+339,09/06/2017,masculino,47,07:49:00,ARMA DE FOGO,Jardim Tropical I,São José de Ribamar,
+340,09/06/2017,masculino,22,21:40:00,ARMA BRANCA,Vila Samara,São Luís,
+341,10/06/2017,feminino,27,21:05:00,ARMA DE FOGO,Camboa,São Luís,
+342,10/06/2017,masculino,32,21:53:00,ARMA DE FOGO,Gapara,São Luís,
+343,10/06/2017,masculino,39,18:16:00,ARMA DE FOGO,Jaguarema,São José de Ribamar,
+344,11/06/2017,masculino,26,01:18:00,ARMA DE FOGO,Liberdade,São Luís,
+345,12/06/2017,masculino,18,09:32:00,ARMA DE FOGO,Bom Jesus,São Luís,
+346,12/06/2017,masculino,33,23:19:00,ARMA DE FOGO,Nova Aurora,São José de Ribamar,
+347,13/06/2017,masculino,18,16:20:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+348,13/06/2017,masculino,30,20:04:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,
+349,14/06/2017,masculino,23,00:25:00,ESPANCAMENTO,Cidade Operária,São Luís,
+350,14/06/2017,masculino,30,23:21:00,ARMA DE FOGO,Forquilha,São Luís,
+351,15/06/2017,masculino,29,20:16:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+352,15/06/2017,masculino,33,07:56:00,ARMA BRANCA,Santa Clara,São Luís,
+353,16/06/2017,masculino,41,19:53:00,ARMA DE FOGO,Planalto Anil IV,São Luís,
+354,16/06/2017,masculino,23,20:00:00,ARMA BRANCA,São José dos Índios,São José de Ribamar,
+355,17/06/2017,masculino,31,20:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+356,17/06/2017,masculino,21,13:34:00,ARMA DE FOGO,Fátima,São Luís,
+357,17/06/2017,masculino,22,17:00:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+358,18/06/2017,feminino,61,23:48:00,ARMA BRANCA,Itapiracó,São Luís,
+359,18/06/2017,masculino,19,03:22:00,ARMA BRANCA,Residencial Turiúba,São José de Ribamar,
+360,18/06/2017,masculino,35,00:45:00,ARMA BRANCA,Tajaçuaba,São Luís,
+361,19/06/2017,feminino,40,10:40:00,ARMA DE FOGO,Cruzeiro de Santa Bárbara,São Luís,
+362,19/06/2017,masculino,25,13:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+363,20/06/2017,masculino,17,18:56:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+364,21/06/2017,masculino,21,16:57:00,ARMA DE FOGO,Cumbique,Raposa,
+365,21/06/2017,masculino,42,14:23:00,ARMA DE FOGO,Tibirizinho,São Luís,
+366,21/06/2017,masculino,14,18:44:00,ARMA DE FOGO,Turú,São Luís,
+367,22/06/2017,feminino,36,16:40:00,ARMA BRANCA,Coroadinho,São Luís,
+368,22/06/2017,masculino,32,19:40:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+369,24/06/2017,masculino,29,22:03:00,ARMA DE FOGO,Divinéia,São Luís,
+370,25/06/2017,masculino,22,03:39:00,ARMA BRANCA,Maracanã,São Luís,
+371,25/06/2017,masculino,18,22:45:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,
+372,26/06/2017,masculino,15,02:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+373,26/06/2017,masculino,33,18:25:00,ARMA DE FOGO,Quebra Pote,São Luís,
+374,26/06/2017,masculino,30,18:00:00,ARMA DE FOGO,Vila Isabel,São Luís,
+375,26/06/2017,masculino,59,15:00:00,ARMA BRANCA,Vila Luizão,São Luís,
+376,27/06/2017,masculino,18,18:33:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+377,29/06/2017,masculino,25,07:15:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+378,30/06/2017,masculino,28,19:20:00,ARMA DE FOGO,Alto do Calhau,São Luís,
+379,30/06/2017,masculino,16,23:30:00,ARMA DE FOGO,Forquilha,São Luís,
+380,30/06/2017,masculino,25,18:51:00,ARMA DE FOGO,São Francisco,São Luís,
+381,01/07/2017,masculino,35,13:14:00,ARMA DE FOGO,Fátima,São Luís,
+382,03/07/2017,masculino,28,15:02:00,ARMA DE FOGO,Vila Esperança,São Luís,
+383,05/07/2017,masculino,33,14:00:00,ARMA DE FOGO,Ilhinha,São Luís,
+384,05/07/2017,feminino,30,03:50:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,
+385,05/07/2017,masculino,27,03:50:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,
+386,06/07/2017,masculino,17,01:30:00,ESTRANGULAMENTO,Vinhais,São Luís,
+387,07/07/2017,masculino,18,03:00:00,ESTRANGULAMENTO,Alto da Esperança,São Luís,
+388,08/07/2017,feminino,23,09:00:00,ARMA BRANCA,João Paulo,São Luís,
+389,09/07/2017,masculino,37,16:30:00,ARMA DE FOGO,Calhau,São Luís,
+390,09/07/2017,masculino,19,01:40:00,ARMA BRANCA,Cidade Operária,São Luís,
+391,09/07/2017,masculino,35,14:30:00,ARMA DE FOGO,Cohafuma,São Luís,
+392,09/07/2017,masculino,46,06:00:00,ARMA BRANCA,Parque Jair,São José de Ribamar,
+393,10/07/2017,masculino,29,07:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+394,10/07/2017,masculino,45,00:30:00,ESPANCAMENTO,Forquilha,São Luís,
+395,11/07/2017,masculino,14,18:40:00,ARMA DE FOGO,São Bernardo,São Luís,
+396,13/07/2017,masculino,26,15:55:00,ARMA DE FOGO,Bom Jesus,São Luís,
+397,13/07/2017,masculino,30,21:00:00,ARMA BRANCA,Residencial Nova Jerusalém,Paço do Lumiar,
+398,14/07/2017,masculino,37,20:39:00,ARMA BRANCA,Novo Paço,Paço do Lumiar,
+399,16/07/2017,masculino,51,17:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+400,18/07/2017,masculino,32,22:00:00,ARMA DE FOGO,Inhaúma,São Luís,
+401,18/07/2017,masculino,19,22:00:00,ARMA DE FOGO,Inhaúma,São Luís,
+402,19/07/2017,masculino,20,16:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+403,19/07/2017,masculino,25,17:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+404,19/07/2017,masculino,14,18:00:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,
+405,21/07/2017,feminino,,16:40:00,ESPANCAMENTO,Ananandiba,São Luís,
+406,21/07/2017,masculino,49,20:42:00,ARMA DE FOGO,Cohaserma,São Luís,
+407,21/07/2017,masculino,43,15:00:00,ARMA BRANCA,Vila Cafeteira-PCL,Paço do Lumiar,
+408,21/07/2017,masculino,24,22:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+409,23/07/2017,feminino,35,18:30:00,ESPANCAMENTO,Barés,São Luís,
+410,23/07/2017,masculino,20,23:00:00,ARMA DE FOGO,Vila Luizão,São Luís,
+411,24/07/2017,masculino,18,10:20:00,ARMA BRANCA,Alonso Costa,São José de Ribamar,
+412,24/07/2017,masculino,55,19:30:00,ARMA BRANCA,Tambaú,Paço do Lumiar,
+413,26/07/2017,masculino,70,17:00:00,ARMA BRANCA,Centro-PCL,Paço do Lumiar,
+414,26/07/2017,masculino,32,01:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+415,27/07/2017,masculino,23,23:40:00,ARMA DE FOGO,Cohab,São Luís,
+416,29/07/2017,feminino,47,15:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+417,30/07/2017,masculino,18,04:13:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+418,02/08/2017,masculino,28,02:40:00,ARMA BRANCA,Centro-SLZ,São Luís,
+419,02/08/2017,masculino,37,10:38:00,ARMA DE FOGO,Jardim Tropical II,São José de Ribamar,
+420,02/08/2017,masculino,31,18:03:00,ARMA DE FOGO,Tibirizinho,São Luís,
+421,03/08/2017,masculino,47,00:01:00,ARMA BRANCA,Residencial Cidade Verde,Paço do Lumiar,
+422,03/08/2017,masculino,33,06:32:00,ARMA BRANCA,Ponta do Farol,São Luís,
+423,04/08/2017,masculino,41,03:39:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+424,05/08/2017,masculino,15,20:30:00,ARMA DE FOGO,Cohatrac V,São José de Ribamar,
+425,05/08/2017,masculino,50,08:58:00,ARMA BRANCA,Maracanã,São Luís,
+426,05/08/2017,feminino,53,08:58:00,ARMA BRANCA,Maracanã,São Luís,
+427,05/08/2017,masculino,18,19:30:00,ARMA DE FOGO,Sacavém,São Luís,
+428,06/08/2017,masculino,16,02:17:00,ARMA DE FOGO,Residencial Paraíso,São Luís,
+429,07/08/2017,masculino,21,21:00:00,ESPANCAMENTO,Coroadinho,São Luís,
+430,07/08/2017,masculino,19,09:41:00,ARMA DE FOGO,Fátima,São Luís,
+431,08/08/2017,masculino,27,20:00:00,ARMA DE FOGO,Coqueiro,São Luís,
+432,10/08/2017,masculino,30,19:00:00,ARMA DE FOGO,Itapera,São Luís,
+433,12/08/2017,masculino,30,23:57:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+434,12/08/2017,masculino,30,01:07:00,ESPANCAMENTO,Maiobão,São José de Ribamar,
+435,12/08/2017,masculino,34,21:33:00,ESPANCAMENTO,Parque Jair,São José de Ribamar,
+436,13/08/2017,feminino,27,23:52:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+437,13/08/2017,masculino,20,06:44:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+438,13/08/2017,masculino,20,19:00:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+439,13/08/2017,masculino,38,06:30:00,ESPANCAMENTO,Santa Maria,São José de Ribamar,
+440,17/08/2017,masculino,34,22:08:00,ARMA DE FOGO,Coroado,São Luís,
+441,19/08/2017,masculino,50,23:13:00,ESPANCAMENTO,João de Deus,São Luís,
+442,19/08/2017,masculino,30,01:08:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+443,20/08/2017,masculino,30,11:07:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+444,21/08/2017,masculino,42,22:07:00,ARMA DE FOGO,João de Deus,São Luís,
+445,23/08/2017,masculino,38,14:00:00,OUTROS MEIOS,Diamante,São Luís,
+446,24/08/2017,masculino,30,12:00:00,ARMA DE FOGO,Camboa,São Luís,
+447,25/08/2017,masculino,26,11:29:00,ARMA DE FOGO,Pirâmide,Raposa,
+448,27/08/2017,masculino,36,00:19:00,ARMA DE FOGO,Calhau,São Luís,
+449,27/08/2017,masculino,23,04:40:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+450,28/08/2017,masculino,20,20:17:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+451,29/08/2017,masculino,37,02:12:00,ARMA BRANCA,Coroadinho,São Luís,
+452,29/08/2017,masculino,36,11:00:00,ARMA DE FOGO,Vila Carol,São José de Ribamar,
+453,31/08/2017,masculino,20,19:44:00,ARMA DE FOGO,Tibiri,São Luís,
+454,31/08/2017,masculino,14,19:44:00,ARMA DE FOGO,Tibiri,São Luís,
+455,31/08/2017,masculino,31,21:59:00,ARMA DE FOGO,Zumbi dos Palmares,Paço do Lumiar,
+456,02/09/2017,masculino,29,10:54:00,ARMA DE FOGO,Anjo da Guarda,São Luís,
+457,02/09/2017,masculino,24,01:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+458,02/09/2017,masculino,31,03:11:00,ARMA DE FOGO,Nova Aurora,São José de Ribamar,
+459,03/09/2017,masculino,36,12:29:00,ARMA BRANCA,Anjo da Guarda,São Luís,
+460,04/09/2017,masculino,24,04:34:00,ESPANCAMENTO,Cohab-Anil III,São Luís,
+461,04/09/2017,masculino,25,13:18:00,ARMA DE FOGO,Vila 25 de maio,São Luís,
+462,05/09/2017,masculino,22,01:41:00,ARMA DE FOGO,Vila Samara,São Luís,
+463,06/09/2017,masculino,21,18:11:00,ARMA BRANCA,Residencial Nova Terra,São José de Ribamar,
+464,06/09/2017,masculino,35,12:58:00,ARMA DE FOGO,Pedrinhas,São Luís,
+465,07/09/2017,masculino,24,09:14:00,ARMA BRANCA,Calhau,São Luís,
+466,08/09/2017,masculino,22,04:58:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,
+467,09/09/2017,feminino,25,18:30:00,ARMA BRANCA,Anil,São Luís,
+468,09/09/2017,masculino,18,00:17:00,ARMA BRANCA,Coroadinho,São Luís,
+469,10/09/2017,masculino,22,15:00:00,ARMA DE FOGO,Pirâmide,Raposa,
+470,10/09/2017,masculino,19,11:40:00,ARMA DE FOGO,Vila Riod,São Luís,
+471,11/09/2017,masculino,29,22:00:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,
+472,11/09/2017,masculino,18,18:00:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+473,11/09/2017,masculino,51,07:20:00,ARMA DE FOGO,Pão de Açúcar,São Luís,
+474,12/09/2017,masculino,30,12:49:00,OUTROS MEIOS,Maiobão,Paço do Lumiar,
+475,12/09/2017,masculino,19,23:40:00,ARMA DE FOGO,Santa Cruz,São Luís,
+476,14/09/2017,masculino,25,21:51:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,
+477,15/09/2017,masculino,22,21:58:00,ARMA DE FOGO,Sacavém,São Luís,
+478,17/09/2017,masculino,15,21:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+479,18/09/2017,masculino,29,16:30:00,ARMA DE FOGO,Parque das Palmeiras,São José de Ribamar,
+480,18/09/2017,masculino,25,02:00:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,
+481,18/09/2017,masculino,44,19:30:00,ARMA BRANCA,Vila Maresia,Raposa,
+482,19/09/2017,masculino,14,11:48:00,ARMA DE FOGO,Pedrinhas,São Luís,
+483,20/09/2017,masculino,22,04:09:00,OUTROS MEIOS,Vila Kiola I,São José de Ribamar,
+484,21/09/2017,masculino,28,20:09:00,ARMA DE FOGO,Porto de Mocajituba,Paço do Lumiar,
+485,24/09/2017,masculino,39,18:30:00,ARMA BRANCA,Sá Viana,São Luís,
+486,24/09/2017,masculino,29,21:29:00,ARMA DE FOGO,Santa Cruz,São Luís,
+487,24/09/2017,masculino,35,22:00:00,ARMA BRANCA,São Raimundo-SJR,São José de Ribamar,
+488,26/09/2017,masculino,15,20:22:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+489,26/09/2017,masculino,45,09:06:00,ARMA DE FOGO,João Paulo,São Luís,
+490,29/09/2017,masculino,14,20:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+491,29/09/2017,masculino,27,04:15:00,ARMA DE FOGO,Estiva,São Luís,
+492,30/09/2017,masculino,22,01:42:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+493,01/10/2017,masculino,19,00:45:00,ARMA DE FOGO,Divinéia,São Luís,
+494,01/10/2017,masculino,27,00:45:00,ARMA DE FOGO,Divinéia,São Luís,
+495,01/10/2017,feminino,22,03:15:00,ARMA DE FOGO,Santana,São José de Ribamar,
+496,02/10/2017,masculino,25,20:18:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,
+497,02/10/2017,masculino,18,16:51:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+498,02/10/2017,masculino,40,00:40:00,ESPANCAMENTO,Tibiri,São Luís,
+499,03/10/2017,masculino,15,13:40:00,ARMA BRANCA,Itapera,São Luís,
+500,03/10/2017,masculino,45,08:05:00,ARMA DE FOGO,Madre Deus,São Luís,
+501,03/10/2017,masculino,35,08:21:00,ESTRANGULAMENTO,São Raimundo,São Luís,
+502,05/10/2017,masculino,71,05:00:00,ARMA BRANCA,Pirâmide,Raposa,
+503,05/10/2017,masculino,52,19:35:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+504,06/10/2017,masculino,25,16:35:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+505,07/10/2017,masculino,29,01:16:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+506,07/10/2017,masculino,29,02:00:00,ARMA BRANCA,Juçatuba,São Luís,
+507,07/10/2017,masculino,20,15:30:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+508,08/10/2017,masculino,19,03:26:00,ARMA BRANCA,Andiroba,São Luís,
+509,08/10/2017,masculino,47,21:07:00,ARMA BRANCA,Mutirão,São José de Ribamar,
+510,09/10/2017,masculino,21,20:00:00,ARMA DE FOGO,Alto do Farol,Raposa,
+511,09/10/2017,masculino,22,01:11:00,ARMA DE FOGO,Vila Itamar,São Luís,
+512,09/10/2017,masculino,33,01:11:00,ARMA DE FOGO,Vila Itamar,São Luís,
+513,09/10/2017,masculino,20,11:38:00,ARMA BRANCA,Vila Janaína,São Luís,
+514,11/10/2017,masculino,17,12:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+515,11/10/2017,masculino,51,20:40:00,ARMA BRANCA,Geniparanã,São Luís,
+516,12/10/2017,masculino,21,09:35:00,ARMA BRANCA,Parque Nice Lobão,São Luís,
+517,12/10/2017,masculino,33,08:40:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+518,12/10/2017,masculino,35,01:40:00,ARMA DE FOGO,Salinas do Sacavém,São Luís,
+519,13/10/2017,masculino,41,05:15:00,ARMA DE FOGO,Cidade Operária,São Luís,
+520,13/10/2017,masculino,31,23:55:00,ARMA DE FOGO,Estiva,São Luís,
+521,13/10/2017,masculino,60,18:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+522,14/10/2017,masculino,13,00:35:00,ARMA DE FOGO,João Paulo,São Luís,
+523,15/10/2017,masculino,36,19:33:00,ARMA DE FOGO,Calhau,São Luís,
+524,16/10/2017,masculino,37,06:30:00,ARMA DE FOGO,Tinaí,São Luís,
+525,17/10/2017,masculino,39,16:11:00,ARMA DE FOGO,Cohatrac IV,São Luís,
+526,17/10/2017,masculino,30,20:00:00,ARMA DE FOGO,Vila Nova República,São Luís,
+527,17/10/2017,masculino,32,20:50:00,ARMA BRANCA,Pau Deitado,Paço do Lumiar,
+528,20/10/2017,masculino,37,01:18:00,ARMA BRANCA,Centro-SLZ,São Luís,
+529,20/10/2017,masculino,22,22:08:00,ARMA DE FOGO,Residencial Ivaldo Rodrigues,São Luís,
+530,21/10/2017,masculino,24,19:43:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+531,21/10/2017,masculino,20,11:00:00,ARMA DE FOGO,Vila Industrial,São Luís,
+532,21/10/2017,masculino,23,07:00:00,ARMA BRANCA,Vila Sarney,São Luís,
+533,22/10/2017,masculino,42,22:30:00,ARMA DE FOGO,Vila Vale Verde,São Luís,
+534,22/10/2017,masculino,17,20:04:00,ARMA DE FOGO,Estiva,São Luís,
+535,22/10/2017,masculino,22,21:37:00,ARMA DE FOGO,Novo Angelim,São Luís,
+536,23/10/2017,masculino,22,21:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+537,23/10/2017,masculino,29,20:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+538,23/10/2017,masculino,77,07:38:00,ESPANCAMENTO,Maiobinha,São José de Ribamar,
+539,24/10/2017,masculino,48,17:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+540,24/10/2017,masculino,26,23:10:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+541,24/10/2017,masculino,15,10:43:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+542,25/10/2017,masculino,38,17:10:00,ARMA DE FOGO,Bom Milagre,São Luís,
+543,26/10/2017,masculino,32,19:33:00,ARMA BRANCA,Estiva,São Luís,
+544,26/10/2017,masculino,18,15:00:00,ARMA DE FOGO,Vila Samara,São Luís,
+545,27/10/2017,masculino,41,13:00:00,OUTROS MEIOS,Anjo da Guarda,São Luís,
+546,27/10/2017,masculino,26,15:04:00,ARMA DE FOGO,Vila Sarney,São Luís,
+547,29/10/2017,masculino,19,18:01:00,ARMA DE FOGO,Areinha,São Luís,
+548,29/10/2017,masculino,27,18:55:00,ARMA DE FOGO,Pirâmide,Raposa,
+549,30/10/2017,masculino,30,03:34:00,ARMA DE FOGO,Liberdade,São Luís,
+550,30/10/2017,masculino,38,17:20:00,ARMA DE FOGO,Sítio do apicum,São José de Ribamar,
+551,30/10/2017,masculino,30,23:32:00,ESPANCAMENTO,Turú,São Luís,
+552,31/10/2017,masculino,32,19:49:00,ARMA DE FOGO,Cohab-Anil IV,São Luís,
+553,31/10/2017,masculino,35,16:30:00,ARMA BRANCA,Madre Deus,São Luís,
+554,31/10/2017,masculino,20,13:54:00,ARMA DE FOGO,Pindoba,Paço do Lumiar,
+555,31/10/2017,masculino,38,23:30:00,ARMA BRANCA,Santana,São José de Ribamar,
+556,01/11/2017,masculino,30,22:30:00,ARMA BRANCA,Anjo da Guarda,São Luís,
+557,01/11/2017,feminino,10,10:00:00,OUTROS MEIOS,Maiobão,Paço do Lumiar,
+558,03/11/2017,masculino,16,10:51:00,ARMA DE FOGO,Cidade Alta,São José de Ribamar,
+559,05/11/2017,masculino,16,23:22:00,ARMA DE FOGO,João Paulo,São Luís,
+560,05/11/2017,masculino,10,23:11:00,ARMA DE FOGO,João Paulo,São Luís,
+561,06/11/2017,masculino,19,12:15:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+562,07/11/2017,feminino,43,,ESTRANGULAMENTO,Vila Riod,São Luís,
+563,08/11/2017,masculino,27,21:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+564,08/11/2017,masculino,19,13:35:00,ARMA DE FOGO,Vila dos Nobres,São Luís,
+565,08/11/2017,masculino,33,18:45:00,ARMA DE FOGO,Coroadinho,São Luís,
+566,10/11/2017,masculino,68,17:50:00,ARMA DE FOGO,Mocajituba,Paço do Lumiar,
+567,12/11/2017,masculino,38,22:44:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+568,12/11/2017,masculino,25,14:56:00,ARMA DE FOGO,Trizidela da Maioba,São José de Ribamar,
+569,12/11/2017,masculino,45,14:56:00,ARMA DE FOGO,Trizidela da Maioba,São José de Ribamar,
+570,13/11/2017,masculino,46,01:00:00,ARMA BRANCA,Maracanã,São Luís,
+571,13/11/2017,masculino,17,22:03:00,ARMA DE FOGO,Ipase,São Luís,
+572,13/11/2017,masculino,21,19:49:00,ARMA DE FOGO,Rio Grande,São Luís,
+573,13/11/2017,masculino,25,00:33:00,ARMA DE FOGO,Vila Embratel,São Luís,
+574,13/11/2017,masculino,25,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+575,13/11/2017,masculino,18,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+576,13/11/2017,masculino,16,19:17:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+577,13/11/2017,masculino,25,00:29:00,ARMA DE FOGO,Pedrinhas,São Luís,
+578,13/11/2017,masculino,38,18:00:00,ARMA DE FOGO,Bom Jesus,São Luís,
+579,14/11/2017,masculino,15,06:28:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+580,14/11/2017,masculino,23,05:14:00,ARMA DE FOGO,Vila Embratel,São Luís,
+581,14/11/2017,masculino,21,13:23:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+582,14/11/2017,masculino,33,23:00:00,ARMA DE FOGO,Coroado,São Luís,
+583,16/11/2017,feminino,33,07:35:00,ARMA BRANCA,Vila dos Nobres,São Luís,
+584,16/11/2017,feminino,49,14:24:00,ARMA BRANCA,Conjunto Alexandra Tavares,São Luís,
+585,16/11/2017,masculino,15,14:00:00,ARMA DE FOGO,Vila Samara,São Luís,
+586,17/11/2017,masculino,18,20:30:00,ARMA BRANCA,Residencial Novo Horizonte,Paço do Lumiar,
+587,16/11/2017,masculino,32,20:30:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+588,17/11/2017,masculino,62,06:00:00,ARMA DE FOGO,Vila Embratel,São Luís,
+589,18/11/2017,masculino,17,20:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+590,18/11/2017,masculino,40,21:24:00,ARMA DE FOGO,São Raimundo,São Luís,
+591,18/11/2017,masculino,26,21:45:00,ARMA DE FOGO,Pirâmide,São Luís,
+592,19/11/2017,masculino,66,20:00:00,ARMA BRANCA,Planalto Vinhais,São Luís,
+593,19/11/2017,masculino,41,21:52:00,ARMA DE FOGO,Vila Airton Sena,São Luís,
+594,19/11/2017,masculino,33,21:52:00,ARMA DE FOGO,Vila Airton Sena,São Luís,
+595,21/11/2017,masculino,29,04:22:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+596,22/11/2017,masculino,50,04:05:00,ARMA BRANCA,João Paulo,São Luís,
+597,23/11/2017,masculino,16,23:26:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+598,23/11/2017,masculino,35,05:35:00,ARMA DE FOGO,Cidade Operária,São Luís,
+599,23/11/2017,masculino,17,15:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+600,23/11/2017,masculino,27,20:57:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+601,25/11/2017,masculino,51,17:00:00,ARMA DE FOGO,Sítio Grande,Paço do Lumiar,
+602,25/11/2017,masculino,37,18:30:00,ARMA DE FOGO,Vinhais,São Luís,
+603,26/11/2017,masculino,15,19:30:00,ARMA DE FOGO,Pedrinhas,São Luís,
+604,26/11/2017,feminino,12,22:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+605,28/11/2017,feminino,42,16:30:00,ARMA DE FOGO,Camboa,São Luís,
+606,28/11/2017,feminino,41,04:45:00,ARMA DE FOGO,Liberdade,São Luís,
+607,28/11/2017,masculino,18,09:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+608,28/11/2017,masculino,20,10:00:00,ARMA DE FOGO,Itapera,São Luís,
+609,29/11/2017,masculino,24,00:00:00,ESTRANGULAMENTO,Iguaíba,São Luís,
+610,29/11/2017,masculino,18,19:00:00,ARMA BRANCA,Cumbique,Paço do Lumiar,
+611,29/11/2017,feminino,24,,OUTROS MEIOS,Pau Deitado,Paço do Lumiar,
+612,29/11/2017,masculino,36,22:00:00,ARMA DE FOGO,La Belle Park,São José de Ribamar,
+613,29/11/2017,masculino,21,19:40:00,ARMA DE FOGO,Vila América,São Luís,
+614,30/11/2017,masculino,23,06:40:00,ARMA DE FOGO,Residencial Cidade Verde,Paço do Lumiar,
+615,30/11/2017,masculino,22,03:30:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+616,30/11/2017,masculino,26,03:30:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+617,02/12/2017,masculino,28,20:21:00,ARMA BRANCA,Estiva,São Luís,
+618,03/12/2017,masculino,46,12:09:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+619,05/12/2017,masculino,59,10:00:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,
+620,05/12/2017,masculino,18,23:26:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+621,06/12/2017,masculino,42,18:22:00,ESPANCAMENTO,Inhaúma,São Luís,
+622,07/12/2017,masculino,23,19:30:00,ARMA DE FOGO,Apeadouro,São Luís,
+623,09/12/2017,feminino,28,19:34:00,ARMA DE FOGO,Liberdade,São Luís,
+624,09/12/2017,masculino,31,06:00:00,ARMA DE FOGO,Quintas do Calhau,São Luís,
+625,09/12/2017,masculino,25,23:32:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+626,10/12/2017,masculino,18,18:56:00,ARMA DE FOGO,Fabril,São Luís,
+627,11/12/2017,masculino,21,07:17:00,ARMA DE FOGO,Camboa,São Luís,
+628,11/12/2017,masculino,22,19:26:00,ARMA DE FOGO,Vila Janaína,São Luís,
+629,12/12/2017,masculino,70,03:00:00,ARMA DE FOGO,Jordôa,São Luís,
+630,12/12/2017,masculino,30,14:30:00,ARMA DE FOGO,Novo Angelim,São Luís,
+631,13/12/2017,masculino,40,19:20:00,ARMA DE FOGO,Residencial Nova Auora,São José de Ribamar,
+632,13/12/2017,masculino,16,11:21:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+633,14/12/2017,masculino,42,10:00:00,ARMA BRANCA,Outeiro,São José de Ribamar,
+634,14/12/2017,masculino,40,13:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+635,15/12/2017,masculino,30,21:13:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,
+636,15/12/2017,masculino,33,11:50:00,ARMA DE FOGO,Vila Embratel,São Luís,
+637,16/12/2017,masculino,18,23:35:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+638,20/12/2017,masculino,54,20:00:00,ARMA BRANCA,Santa Bárbara,São Luís,
+639,21/12/2017,masculino,47,05:59:00,ARMA BRANCA,Canavieiro,São José de Ribamar,
+640,23/12/2017,masculino,22,20:00:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+641,24/12/2017,masculino,30,22:08:00,ARMA DE FOGO,Desterro,São Luís,
+642,24/12/2017,masculino,20,13:28:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+643,25/12/2017,masculino,38,04:48:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,
+644,25/12/2017,masculino,30,14:42:00,ARMA BRANCA,Coheb Sacavém,São Luís,
+645,25/12/2017,masculino,38,11:50:00,ARMA BRANCA,Gapara,São Luís,
+646,25/12/2017,masculino,31,02:00:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+647,25/12/2017,masculino,29,14:20:00,ARMA DE FOGO,Coroadinho,São Luís,
+648,25/12/2017,masculino,17,12:37:00,ARMA DE FOGO,Gapara,São Luís,
+649,25/12/2017,masculino,25,18:57:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+650,27/12/2017,masculino,24,20:12:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+651,28/12/2017,masculino,31,06:39:00,ARMA DE FOGO,Porto do Vieira,São José de Ribamar,
+652,29/12/2017,masculino,36,10:45:00,ARMA DE FOGO,Bequimão,São Luís,
+653,30/12/2017,masculino,20,20:30:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+654,01/01/2018,masculino,39,10:27:00,ARMA DE FOGO,Estiva,São Luís,
+655,01/01/2018,masculino,43,19:57:00,ARMA DE FOGO,Geniparanã,São Luís,
+656,01/01/2018,masculino,35,07:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,
+657,02/01/2018,masculino,56,12:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+658,04/01/2018,masculino,15,20:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+659,04/01/2018,masculino,16,22:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+660,06/01/2018,masculino,73,06:00:00,ARMA DE FOGO,São Raimundo,São Luís,
+661,06/01/2018,masculino,30,00:00:00,ARMA DE FOGO,João Paulo,São Luís,
+662,06/01/2018,masculino,15,12:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+663,07/01/2018,masculino,16,22:30:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+664,07/01/2018,masculino,31,07:40:00,ARMA BRANCA,Pedrinhas,São Luís,
+665,07/01/2018,masculino,36,14:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+666,07/01/2018,masculino,19,17:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+667,09/01/2018,masculino,27,12:30:00,ARMA BRANCA,Vila Embratel,São Luís,
+668,10/01/2018,masculino,41,21:00:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,
+669,11/01/2018,masculino,15,15:10:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+670,12/01/2018,masculino,32,19:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,
+671,13/01/2018,masculino,17,13:23:00,ARMA DE FOGO,Alemanha,São Luís,
+672,13/01/2018,masculino,41,22:25:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+673,13/01/2018,masculino,24,22:25:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+674,14/01/2018,masculino,22,07:00:00,ESPANCAMENTO,Cidade Olímpica,São Luís,
+675,14/01/2018,masculino,22,22:00:00,ARMA DE FOGO,Jaracaty,São Luís,
+676,15/01/2018,masculino,49,11:30:00,ARMA DE FOGO,Povoado Rio São João,São José de Ribamar,
+677,15/01/2018,masculino,28,02:48:00,ARMA DE FOGO,Cidade Operária,São Luís,
+678,16/01/2018,masculino,19,13:47:00,ARMA BRANCA,Residencial Orquídeas,Paço do Lumiar,
+679,16/01/2018,masculino,28,22:00:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,
+680,16/01/2018,masculino,22,21:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+681,16/01/2018,masculino,15,19:30:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+682,16/01/2018,masculino,29,22:30:00,ARMA DE FOGO,Maracanã,São Luís,
+683,17/01/2018,masculino,24,06:10:00,ARMA DE FOGO,Pedrinhas,São Luís,
+684,18/01/2018,masculino,33,05:30:00,ARMA DE FOGO,Conjunto Tambaú,Paço do Lumiar,
+685,18/01/2018,masculino,27,22:00:00,ARMA DE FOGO,Novo angelim,São Luís,
+686,19/01/2018,masculino,38,06:45:00,ARMA BRANCA,Pindoba,Paço do Lumiar,
+687,19/01/2018,masculino,18,15:47:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+688,20/01/2018,masculino,46,14:00:00,ESPANCAMENTO,,,
+689,20/01/2018,masculino,37,19:27:00,ARMA DE FOGO,Mata de Itapera,São Luís,
+690,21/01/2018,masculino,28,03:00:00,ARMA BRANCA,Aterro do Bacanga,São Luís,
+691,24/01/2018,masculino,23,20:17:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+692,25/01/2018,masculino,22,16:17:00,ARMA DE FOGO,Piçarreira,São José de Ribamar,
+693,25/01/2018,masculino,17,17:48:00,ARMA BRANCA,Novo Horizonte-São Raimundo,São Luís,
+694,25/01/2018,masculino,18,19:30:00,ARMA BRANCA,Coréia,São Luís,
+695,26/01/2018,masculino,37,15:20:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,
+696,26/01/2018,masculino,34,20:00:00,ARMA DE FOGO,Quinta,São José de Ribamar,
+697,30/01/2018,masculino,28,20:25:00,ARMA DE FOGO,Iguaíba,Paço do Lumiar,
+698,30/01/2018,masculino,18,23:40:00,ARMA DE FOGO,São Cristóvão,São Luís,
+699,31/01/2018,masculino,19,20:30:00,ARMA DE FOGO,Quinta,São José de Ribamar,
+700,02/02/2018,masculino,21,16:27:00,ARMA BRANCA,,,
+701,02/02/2018,masculino,18,10:13:00,ARMA BRANCA,Mojó,Paço do Lumiar,
+702,03/02/2018,masculino,49,13:00:00,ARMA BRANCA,São Francisco,São Luís,
+703,03/02/2018,masculino,36,09:30:00,ARMA DE FOGO,Vila Gorete-Camboa,São Luís,
+704,04/02/2018,masculino,35,01:29:00,ARMA BRANCA,Centro-SLZ,São Luís,
+705,04/02/2018,masculino,21,23:12:00,ARMA DE FOGO,João Paulo,São Luís,
+706,05/02/2018,masculino,40,13:30:00,ARMA DE FOGO,Vila Cafeteira-SJR,São José de Ribamar,
+707,05/02/2018,masculino,34,01:50:00,ARMA BRANCA,Aterro do Bacanga,São Luís,
+708,05/02/2018,masculino,23,00:25:00,ARMA DE FOGO,Santa Efigênia,São Luís,
+709,09/02/2018,masculino,14,13:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+710,09/02/2018,masculino,15,10:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,
+711,09/02/2018,masculino,46,19:00:00,ARMA DE FOGO,Gapara,São Luís,
+712,09/02/2018,masculino,21,21:57:00,ARMA DE FOGO,Pedrinhas,São Luís,
+713,10/02/2018,masculino,16,10:47:00,ARMA BRANCA,Vila Lobão,São Luís,
+714,13/02/2018,feminino,20,03:00:00,OUTROS MEIOS,Vila São Sebastião,São Luís,
+715,13/02/2018,masculino,27,13:00:00,ARMA BRANCA,Vila São Sebastião,São Luís,
+716,13/02/2018,masculino,32,14:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+717,15/02/2018,masculino,26,19:20:00,ARMA DE FOGO,Parque dos Nobres,São Luís,
+718,16/02/2018,feminino,23,01:00:00,OUTROS MEIOS,Forquilha,São Luís,
+719,16/02/2018,masculino,24,01:00:00,OUTROS MEIOS,Forquilha,São Luís,
+720,18/02/2018,masculino,23,10:46:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+721,19/02/2018,masculino,26,17:40:00,ARMA DE FOGO,Vila Isabel,São Luís,
+722,20/02/2018,masculino,33,01:35:00,ARMA BRANCA,São Cristóvão,São Luís,
+723,20/02/2018,masculino,45,17:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+724,21/02/2018,masculino,22,19:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+725,21/02/2018,masculino,,,ARMA DE FOGO,Cidade Olímpica,São Luís,
+726,24/02/2018,masculino,25,20:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+727,24/02/2018,masculino,25,20:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+728,25/02/2018,masculino,17,05:00:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São José de Ribamar,
+729,25/02/2018,masculino,27,23:40:00,ARMA DE FOGO,Barreto,São Luís,
+730,27/02/2018,masculino,43,21:29:00,ARMA BRANCA,Quebra Pote,São Luís,
+731,01/03/2018,,,16:41:00,ESPANCAMENTO,Santa Bárbara,São Luís,
+732,03/03/2018,masculino,20,16:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+733,03/03/2018,feminino,44,22:00:00,ARMA DE FOGO,Coroado,São Luís,
+734,04/03/2018,masculino,39,16:08:00,ARMA BRANCA,Barragem do Bacanga,São Luís,
+735,05/03/2018,masculino,26,19:00:00,ARMA DE FOGO,Outeiro,São José de Ribamar,
+736,07/03/2018,feminino,31,12:19:00,ARMA BRANCA,Cohab-Anil I,São Luís,
+737,09/03/2018,masculino,16,20:59:00,ARMA DE FOGO,Santa Clara,São Luís,
+738,10/03/2018,masculino,47,18:53:00,ARMA BRANCA,Liberdade,São Luís,
+739,11/03/2018,masculino,28,05:20:00,ARMA BRANCA,Vila Esperança,São Luís,
+740,12/03/2018,masculino,30,04:00:00,ESTRANGULAMENTO,Cururuca,Paço do Lumiar,
+741,15/03/2018,masculino,31,23:00:00,ARMA DE FOGO,João de Deus,São Luís,
+742,16/03/2018,masculino,20,00:37:00,ARMA DE FOGO,Estiva,São Luís,
+743,16/03/2018,masculino,49,17:00:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,
+744,18/03/2018,masculino,25,18:23:00,ARMA DE FOGO,Invasão todos os Santos,Paço do Lumiar,
+745,23/03/2018,masculino,23,18:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+746,24/03/2018,masculino,17,11:34:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+747,25/03/2018,masculino,55,08:40:00,OUTROS MEIOS,Residencial Nova Jerusalém,Paço do Lumiar,
+748,26/03/2018,masculino,36,16:35:00,ARMA DE FOGO,Camboa,São Luís,
+749,27/03/2018,masculino,20,16:20:00,ARMA DE FOGO,Pedrinhas,São Luís,
+750,27/03/2018,masculino,52,20:00:00,ARMA BRANCA,Pirâmide,Paço do Lumiar,
+751,28/03/2018,masculino,30,20:15:00,ARMA DE FOGO,Retiro Natal,São Luís,
+752,28/03/2018,masculino,75,21:00:00,ARMA DE FOGO,Vila Maranhão,São Luís,
+753,29/03/2018,masculino,39,06:22:00,ARMA DE FOGO,Itaqui,São Luís,
+754,29/03/2018,masculino,25,22:00:00,ARMA DE FOGO,Vila Sarney,São Luís,
+755,29/03/2018,masculino,,16:54:00,OUTROS MEIOS,Ponta D'areia,São Luís,
+756,30/03/2018,masculino,27,09:15:00,ARMA DE FOGO,Camboa,São Luís,
+757,31/03/2018,masculino,37,20:36:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,
+758,01/04/2018,masculino,20,01:47:00,ARMA DE FOGO,São Raimundo,São Luís,
+759,01/04/2018,masculino,17,13:17:00,ARMA DE FOGO,Vila Isabel,São Luís,
+760,02/04/2018,masculino,32,08:07:00,ARMA DE FOGO,Vila Embratel,São Luís,
+761,02/04/2018,masculino,53,19:15:00,ARMA DE FOGO,Liberdade,São Luís,
+762,05/04/2018,feminino,30,08:40:00,ARMA BRANCA,Coroado,São Luís,
+763,06/04/2018,masculino,23,12:42:00,ARMA DE FOGO,Monte Castelo,São Luís,
+764,06/04/2018,masculino,17,16:43:00,ARMA DE FOGO,Radional,São Luís,
+765,07/04/2018,masculino,25,22:35:00,ARMA BRANCA,Jardim Tropical II,São José de Ribamar,
+766,08/04/2018,masculino,36,21:00:00,ARMA DE FOGO,Tibiri,São Luís,
+767,08/04/2018,feminino,34,22:00:00,ARMA DE FOGO,Fátima,São Luís,
+768,08/04/2018,masculino,30,00:32:00,OUTROS MEIOS,Fátima,São Luís,
+769,10/04/2018,masculino,20,05:00:00,OUTROS MEIOS,São Francisco,São Luís,
+770,11/04/2018,masculino,26,19:00:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,
+771,11/04/2018,masculino,29,20:20:00,ARMA DE FOGO,Conjunto Tambaú,Paço do Lumiar,
+772,14/04/2018,masculino,29,04:25:00,ARMA BRANCA,Conjunto Roseana Sarney,São Luís,
+773,14/04/2018,masculino,12,20:50:00,ARMA DE FOGO,Fátima,São Luís,
+774,15/04/2018,masculino,35,02:18:00,OUTROS MEIOS,Vila Esperança,São Luís,
+775,15/04/2018,masculino,41,02:18:00,OUTROS MEIOS,Vila Esperança,São Luís,
+776,15/04/2018,masculino,31,08:00:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,
+777,15/04/2018,masculino,46,23:32:00,ARMA DE FOGO,Forquilha,São Luís,
+778,20/04/2018,masculino,18,19:42:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+779,20/04/2018,masculino,21,21:51:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+780,21/04/2018,masculino,61,20:35:00,ARMA BRANCA,Matinha,São José de Ribamar,
+781,21/04/2018,feminino,36,20:35:00,ARMA BRANCA,Matinha,São José de Ribamar,
+782,23/04/2018,masculino,33,16:54:00,ARMA DE FOGO,Coqueiro,São Luís,
+783,23/04/2018,masculino,53,21:30:00,ARMA BRANCA,Calhau,São Luís,
+784,25/04/2018,masculino,22,21:30:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,
+785,26/04/2018,masculino,52,08:00:00,ARMA DE FOGO,Anil,São Luís,
+786,26/04/2018,masculino,21,10:30:00,ARMA DE FOGO,Vila Brasil,São Luís,
+787,26/04/2018,feminino,40,13:00:00,ARMA BRANCA,Pão de Açúcar,São Luís,
+788,27/04/2018,masculino,33,10:30:00,OUTROS MEIOS,Vila Nova-Bacanga,São Luís,
+789,28/04/2018,masculino,23,13:30:00,ARMA DE FOGO,Vila Itamar,São Luís,
+790,29/04/2018,masculino,19,20:00:00,ARMA DE FOGO,São Raimundo,São Luís,
+791,29/04/2018,masculino,59,20:00:00,ARMA BRANCA,Inhaúma,Raposa,
+792,29/04/2018,masculino,30,02:40:00,OUTROS MEIOS,Araçagi,São José de Ribamar,
+793,29/04/2018,masculino,15,17:00:00,OUTROS MEIOS,Parque Jair,São José de Ribamar,
+794,01/05/2018,masculino,25,13:44:00,ARMA DE FOGO,Vila São José – PCL,Paço do Lumiar,
+795,01/05/2018,masculino,15,23:00:00,ESPANCAMENTO,Caúra,São José de Ribamar,
+796,02/05/2018,masculino,30,22:15:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+797,03/05/2018,masculino,20,11:40:00,ESTRANGULAMENTO,Pedrinhas,São Luís,
+798,03/05/2018,masculino,20,18:15:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+799,04/05/2018,masculino,21,11:30:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+800,05/05/2018,masculino,35,23:35:00,ARMA DE FOGO,Araçagi,São José de Ribamar,
+801,06/05/2018,masculino,17,00:06:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+802,06/05/2018,masculino,28,18:17:00,ARMA DE FOGO,Ponta D'areia,São Luís,
+803,06/05/2018,masculino,19,20:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+804,06/05/2018,masculino,6,10:45:00,ARMA DE FOGO,Fátima,São Luís,
+805,07/05/2018,feminino,25,14:50:00,ARMA BRANCA,Andiroba,São Luís,
+806,08/05/2018,masculino,68,19:42:00,ARMA DE FOGO,Igaraú,São Luís,
+807,08/05/2018,feminino,10,21:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+808,09/05/2018,masculino,22,15:25:00,ARMA BRANCA,Tajaçuaba,São Luís,
+809,10/05/2018,masculino,1,17:00:00,OUTROS MEIOS,Panaquatira,São José de Ribamar,
+810,10/05/2018,masculino,37,06:40:00,ARMA BRANCA,Bonfim,São Luís,
+811,10/05/2018,masculino,18,22:14:00,ARMA BRANCA,Cidade Olímpica,São Luís,
+812,10/05/2018,masculino,25,03:34:00,ARMA DE FOGO,Pedrinhas,São Luís,
+813,13/05/2018,masculino,15,18:30:00,ARMA DE FOGO,São Raimundo,São Luís,
+814,15/05/2018,masculino,26,00:57:00,ARMA DE FOGO,Cohab-Anil III,São Luís,
+815,15/05/2018,masculino,29,10:40:00,ARMA DE FOGO,Cidade Operária,São Luís,
+816,15/05/2018,masculino,25,,OUTROS MEIOS,Pedrinhas,São Luís,
+817,18/05/2018,masculino,52,09:30:00,ARMA DE FOGO,Cajueiro,São Luís,
+818,18/05/2018,masculino,18,16:55:00,ARMA DE FOGO,Pedrinhas,São Luís,
+819,19/05/2018,masculino,31,21:00:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,
+820,19/05/2018,masculino,22,05:00:00,ARMA BRANCA,Cidade Olímpica,São Luís,
+821,19/05/2018,masculino,51,05:40:00,ARMA DE FOGO,Recanto Verde,São Luís,
+822,20/05/2018,masculino,17,13:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+823,21/05/2018,masculino,22,02:30:00,ARMA DE FOGO,Vila 25 de Maio,São Luís,
+824,21/05/2018,masculino,49,19:48:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+825,21/05/2018,masculino,23,20:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+826,23/05/2018,feminino,30,22:00:00,ARMA BRANCA,Ivar Saldanha,São Luís,
+827,24/05/2018,masculino,54,06:30:00,ARMA DE FOGO,Chácara Brasil,São Luís,
+828,24/05/2018,masculino,32,15:00:00,ARMA DE FOGO,Vinhais,São Luís,
+829,25/05/2018,masculino,35,21:00:00,ARMA DE FOGO,Residencial Carlos Augusto,Paço do Lumiar,
+830,25/05/2018,masculino,28,08:00:00,ARMA DE FOGO,Vila Esperança,São Luís,
+831,25/05/2018,masculino,17,08:00:00,ARMA DE FOGO,Vila Esperança,São Luís,
+832,26/05/2018,masculino,15,02:40:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,
+833,26/05/2018,masculino,28,20:00:00,ARMA DE FOGO,Vila Vitória,São Luís,
+834,26/05/2018,masculino,29,19:30:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+835,27/05/2018,masculino,31,19:30:00,ARMA DE FOGO,Andiroba,São Luís,
+836,28/05/2018,masculino,47,02:14:00,ARMA BRANCA,São Raimundo,São Luís,
+837,28/05/2018,masculino,25,03:50:00,ARMA BRANCA,Cohab-Anil III,São Luís,
+838,01/06/2018,masculino,14,20:00:00,ARMA DE FOGO,Vila Riod,São Luís,
+839,02/06/2018,masculino,22,15:20:00,ARMA DE FOGO,Vila Cafeteira-SJR,São José de Ribamar,
+840,03/06/2018,masculino,29,21:00:00,ARMA BRANCA,Vila Maranhão,São Luís,
+841,03/06/2018,masculino,24,11:15:00,ARMA DE FOGO,Vila Valian,São Luís,
+842,04/06/2018,masculino,38,00:40:00,ARMA DE FOGO,Pirapora,São Luís,
+843,04/06/2018,masculino,36,00:45:00,ARMA DE FOGO,Fátima,São Luís,
+844,04/06/2018,masculino,21,19:30:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+845,04/06/2018,masculino,29,14:00:00,ARMA BRANCA,Vila Collier,São Luís,
+846,05/06/2018,masculino,26,00:36:00,ARMA DE FOGO,João Paulo,São Luís,
+847,06/06/2018,feminino,26,19:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+848,10/06/2018,masculino,17,14:30:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+849,10/06/2018,masculino,24,17:00:00,ARMA BRANCA,São Francisco,São Luís,
+850,12/06/2018,masculino,37,18:45:00,ARMA BRANCA,Vila São João,Raposa,
+851,14/06/2018,masculino,36,16:57:00,ESPANCAMENTO,Cidade Operária,São Luís,
+852,15/06/2018,masculino,29,20:00:00,ARMA DE FOGO,Recanto da Paz,São José de Ribamar,
+853,15/06/2018,masculino,17,09:33:00,ARMA DE FOGO,Sacavém,São Luís,
+854,16/06/2018,masculino,26,11:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+855,16/06/2018,masculino,21,21:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+856,16/06/2018,masculino,18,22:00:00,ARMA DE FOGO,Retiro Natal,São Luís,
+857,17/06/2018,masculino,39,23:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+858,17/06/2018,masculino,22,23:46:00,ARMA DE FOGO,Monte Castelo,São Luís,
+859,18/06/2018,feminino,35,07:30:00,ARMA BRANCA,Rio Grande,São Luís,
+860,20/06/2018,masculino,16,13:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+861,20/06/2018,masculino,33,,ARMA DE FOGO,Vila Embratel,São Luís,
+862,22/06/2018,masculino,19,20:00:00,ARMA DE FOGO,Residencial Luís Fernando,Paço do Lumiar,
+863,22/06/2018,masculino,32,00:46:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,
+864,22/06/2018,masculino,44,11:00:00,ARMA DE FOGO,Monte Castelo,São Luís,
+865,23/06/2018,masculino,32,20:30:00,ARMA BRANCA,Vila Operária,São José de Ribamar,
+866,23/06/2018,masculino,21,02:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+867,23/06/2018,masculino,30,20:32:00,ARMA DE FOGO,Recanto Fialho,São Luís,
+868,24/06/2018,masculino,27,20:30:00,ARMA BRANCA,Alto do Turu II,São José de Ribamar,
+869,24/06/2018,masculino,15,17:44:00,ARMA DE FOGO,Coroadinho,São Luís,
+870,24/06/2018,masculino,24,21:47:00,ARMA DE FOGO,Maracanã,São Luís,
+871,25/06/2018,masculino,42,06:51:00,ARMA BRANCA,Matinha,São José de Ribamar,
+872,25/06/2018,masculino,48,08:22:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+873,25/06/2018,feminino,25,22:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+874,25/06/2018,masculino,21,04:00:00,ARMA DE FOGO,Vila Embratel,São Luís,
+875,27/06/2018,masculino,17,16:20:00,ESPANCAMENTO,Vila Airton Sena,São Luís,
+876,27/06/2018,masculino,21,15:20:00,ARMA DE FOGO,Liberdade,São Luís,
+877,28/06/2018,masculino,20,15:00:00,ARMA DE FOGO,Residencial Nova Vida,Paço do Lumiar,
+878,28/06/2018,masculino,40,17:00:00,ARMA DE FOGO,Santa Cruz,São Luís,
+879,28/06/2018,masculino,23,15:30:00,ARMA DE FOGO,Maranhão Novo,São Luís,
+880,30/06/2018,masculino,46,05:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+881,02/07/2018,masculino,28,09:00:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+882,02/07/2018,masculino,31,20:30:00,ARMA DE FOGO,Residencial 2000,São Luís,
+883,04/07/2018,masculino,26,04:00:00,ARMA DE FOGO,Vila Talita,Raposa,
+884,04/07/2018,masculino,20,20:30:00,ARMA DE FOGO,Ponta Verde,São José de Ribamar,
+885,04/07/2018,masculino,21,21:30:00,ARMA DE FOGO,Coroadinho,São Luís,
+886,06/07/2018,feminino,33,21:00:00,ARMA DE FOGO,Residencial Novo Horizonte,Paço do Lumiar,
+887,06/07/2018,masculino,41,11:30:00,ARMA DE FOGO,Forquilha,São Luís,
+888,07/07/2018,masculino,44,15:40:00,ARMA DE FOGO,Tibiri,São Luís,
+889,14/07/2018,masculino,15,14:30:00,ARMA DE FOGO,Vila Funil,São Luís,
+890,14/07/2018,masculino,17,12:00:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,
+891,15/07/2018,feminino,44,05:30:00,ARMA BRANCA,Morada do Bosque II,Paço do Lumiar,
+892,16/07/2018,masculino,39,06:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+893,21/07/2018,masculino,29,18:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,
+894,21/07/2018,masculino,16,00:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+895,26/07/2018,masculino,46,17:20:00,OUTROS MEIOS,Parque Bob Kennedy,Paço do Lumiar,
+896,26/07/2018,masculino,20,19:00:00,ARMA DE FOGO,Sacavém,São Luís,
+897,31/07/2018,masculino,16,20:00:00,ARMA DE FOGO,Recanto Verde,São Luís,
+898,03/08/2018,masculino,25,17:00:00,ARMA DE FOGO,Vieira,São José de Ribamar,
+899,05/08/2018,masculino,23,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,
+900,05/08/2018,masculino,39,,ARMA DE FOGO,Vila Maranhão,São Luís,
+901,06/08/2018,masculino,26,16:30:00,ARMA DE FOGO,Estiva,São Luís,
+902,07/08/2018,masculino,28,21:13:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,
+903,07/08/2018,masculino,44,16:36:00,ARMA BRANCA,Areinha,São Luís,
+904,13/08/2018,masculino,25,,OUTROS MEIOS,Aterro do Bacanga,São Luís,
+905,14/08/2018,masculino,17,05:51:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,
+906,16/08/2018,masculino,29,14:57:00,ARMA DE FOGO,Pindaí,São José de Ribamar,
+907,17/08/2018,masculino,52,17:30:00,ARMA BRANCA,Coquilho,São Luís,
+908,18/08/2018,masculino,29,02:50:00,ARMA BRANCA,Centro-SLZ,São Luís,
+909,18/08/2018,masculino,18,01:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,
+910,18/08/2018,masculino,38,20:45:00,ARMA DE FOGO,Vila Funil,São Luís,
+911,19/08/2018,masculino,36,23:30:00,ARMA DE FOGO,Novo Cohatrac,São José de Ribamar,
+912,20/08/2018,masculino,67,19:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+913,21/08/2018,masculino,46,20:32:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,
+914,21/08/2018,masculino,33,03:00:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,
+915,21/08/2018,masculino,26,23:40:00,ARMA BRANCA,Vila Cascavel,São Luís,
+916,21/08/2018,masculino,22,12:00:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+917,22/08/2018,masculino,25,23:40:00,ARMA BRANCA,Residencial Tiradentes,São Luís,
+918,22/08/2018,masculino,18,09:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+919,22/08/2018,masculino,20,12:00:00,ARMA DE FOGO,Cruzeiro do Anil,São Luís,
+920,23/08/2018,masculino,29,06:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+921,24/08/2018,masculino,24,23:00:00,ARMA DE FOGO,Retiro Natal,São Luís,
+922,27/08/2018,masculino,21,21:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+923,28/08/2018,masculino,24,17:30:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+924,31/08/2018,masculino,39,22:37:00,ARMA BRANCA,Vila do Povo,Paço do Lumiar,
+925,31/08/2018,feminino,39,10:45:00,ARMA DE FOGO,Vieira,São José de Ribamar,
+926,31/08/2018,masculino,47,11:00:00,ARMA DE FOGO,Ivar Saldanha,São Luís,
+927,02/09/2018,masculino,18,02:38:00,ARMA DE FOGO,Maracanã,São Luís,
+928,03/09/2018,masculino,20,08:15:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+929,04/09/2018,masculino,21,01:25:00,ARMA DE FOGO,Itapera,São Luís,
+930,04/09/2018,masculino,32,01:25:00,ARMA DE FOGO,Itapera,São Luís,
+931,04/09/2018,masculino,18,19:17:00,ARMA DE FOGO,Cohatrac IV,São Luís,
+932,05/09/2018,masculino,26,13:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,
+933,06/09/2018,masculino,21,21:31:00,ARMA DE FOGO,Mata,São José de Ribamar,
+934,07/09/2018,masculino,30,19:43:00,ARMA BRANCA,João de Deus,São Luís,
+935,07/09/2018,masculino,21,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+936,08/09/2018,masculino,18,11:04:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+937,08/09/2018,masculino,27,11:04:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+938,09/09/2018,masculino,39,14:55:00,ARMA DE FOGO,Coroadinho,São Luís,
+939,10/09/2018,masculino,17,02:36:00,ARMA DE FOGO,Mata,São José de Ribamar,
+940,10/09/2018,masculino,17,01:00:00,ARMA DE FOGO,Outeiro,São José de Ribamar,
+941,10/09/2018,masculino,19,20:14:00,ARMA DE FOGO,Jardim América,São Luís,
+942,13/09/2018,masculino,53,06:45:00,ARMA BRANCA,Vila Conceição – Alto do Calhau,São Luís,
+943,14/09/2018,masculino,20,11:10:00,ARMA DE FOGO,Pontal da Ilha,São Luís,
+944,15/09/2018,masculino,37,19:20:00,ARMA DE FOGO,Liberdade,São Luís,
+945,16/09/2018,masculino,21,21:29:00,ARMA DE FOGO,Residencial Orquídeas,Paço do Lumiar,
+946,19/09/2018,masculino,25,20:30:00,ARMA DE FOGO,Vila Passos,São Luís,
+947,21/09/2018,masculino,24,20:36:00,ARMA DE FOGO,Cumbique,Raposa,
+948,21/09/2018,masculino,19,06:10:00,ARMA DE FOGO,Gapara,São Luís,
+949,21/09/2018,masculino,33,06:00:00,ARMA DE FOGO,Aurora,São Luís,
+950,21/09/2018,masculino,50,23:10:00,ARMA DE FOGO,Parque Timbiras,São Luís,
+951,22/09/2018,masculino,18,14:00:00,ARMA DE FOGO,Vila Janaína,São Luís,
+952,22/09/2018,masculino,43,23:40:00,ESPANCAMENTO,Centro-SLZ,São Luís,
+953,25/09/2018,masculino,16,21:35:00,ARMA DE FOGO,Tibirizinho,São Luís,
+954,25/09/2018,masculino,20,21:25:00,ARMA DE FOGO,Tibirizinho,São Luís,
+955,26/09/2018,masculino,16,14:30:00,ARMA DE FOGO,Vila Janaína,São Luís,
+956,27/09/2018,masculino,29,23:30:00,ARMA DE FOGO,Alemanha,São Luís,
+957,28/09/2018,masculino,32,,ARMA DE FOGO,Vila Mauro Fecury I,São Luís,
+958,30/09/2018,masculino,35,05:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,
+959,01/10/2018,masculino,54,07:00:00,ARMA DE FOGO,Iguaíba,Paço do Lumiar,
+960,01/10/2018,masculino,25,21:00:00,ARMA DE FOGO,Estiva,São Luís,
+961,02/10/2018,masculino,14,21:20:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+962,05/10/2018,masculino,23,19:30:00,ARMA DE FOGO,Cohab-Anil III,São Luís,
+963,06/10/2018,feminino,52,19:00:00,ARMA BRANCA,Inhaúma,São Luís,
+964,07/10/2018,masculino,42,00:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+965,10/10/2018,masculino,19,08:20:00,ARMA DE FOGO,Miritiua,São José de Ribamar,
+966,10/10/2018,masculino,73,08:20:00,ARMA DE FOGO,Miritiua,São José de Ribamar,
+967,10/10/2018,masculino,16,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+968,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+969,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+970,10/10/2018,masculino,20,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+971,10/10/2018,masculino,18,11:00:00,ARMA DE FOGO,Sarnambi,São José de Ribamar,
+972,11/10/2018,masculino,,21:00:00,ARMA DE FOGO,São Cristóvão,São Luís,
+973,12/10/2018,masculino,27,23:00:00,ARMA DE FOGO,Bequimão,São Luís,
+974,14/10/2018,masculino,21,18:30:00,ARMA DE FOGO,Recanto Vinhais,São Luís,
+975,14/10/2018,masculino,35,20:00:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,
+976,15/10/2018,masculino,31,00:00:00,ARMA BRANCA,Mercado Central,São Luís,
+977,15/10/2018,masculino,25,01:00:00,ARMA DE FOGO,25 de Maio,São Luís,
+978,17/10/2018,masculino,15,19:31:00,ARMA DE FOGO,Coroado,São Luís,
+979,17/10/2018,masculino,17,19:31:00,ARMA DE FOGO,Coroado,São Luís,
+980,19/10/2018,masculino,26,06:40:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+981,19/10/2018,masculino,33,19:01:00,ARMA DE FOGO,Anjo da Guarda,São Luís,
+982,19/10/2018,masculino,26,21:36:00,ARMA DE FOGO,São Cristóvão,São Luís,
+983,19/10/2018,masculino,22,19:30:00,ARMA DE FOGO,Monte Castelo,São Luís,
+984,19/10/2018,masculino,23,18:55:00,ARMA DE FOGO,Sá Viana,São Luís,
+985,19/10/2018,masculino,20,19:54:00,ARMA DE FOGO,Vila Cascavel,São Luís,
+986,19/10/2018,masculino,12,23:58:00,ARMA DE FOGO,São Raimundo,São Luís,
+987,20/10/2018,masculino,57,21:52:00,ARMA DE FOGO,Boa Vista,Paço do Lumiar,
+988,20/10/2018,masculino,39,15:00:00,ARMA BRANCA,Cidade Operária,São Luís,
+989,20/10/2018,masculino,30,17:07:00,ARMA DE FOGO,Vila Embratel,São Luís,
+990,20/10/2018,masculino,22,19:44:00,ARMA DE FOGO,Liberdade,São Luís,
+991,20/10/2018,masculino,17,19:57:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+992,20/10/2018,masculino,25,19:36:00,OUTROS MEIOS,Matinha,São Luís,
+993,21/10/2018,masculino,30,21:53:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+994,21/10/2018,masculino,19,02:00:00,ARMA DE FOGO,Coroadinho,São Luís,
+995,21/10/2018,masculino,17,21:40:00,ARMA DE FOGO,Coroadinho,São Luís,
+996,22/10/2018,masculino,19,11:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+997,24/10/2018,masculino,28,19:30:00,ARMA DE FOGO,Cohafuma,São Luís,
+998,25/10/2018,masculino,49,19:00:00,ARMA DE FOGO,Conjunto Roseana Sarney,Paço do Lumiar,
+999,28/10/2018,masculino,46,00:40:00,ESPANCAMENTO,Maiobinha,São José de Ribamar,
+1000,28/10/2018,masculino,28,21:00:00,ARMA DE FOGO,Bom Jesus,São Luís,
+1001,30/10/2018,masculino,27,20:30:00,ARMA DE FOGO,Cohama,São Luís,
+1002,31/10/2018,masculino,51,02:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+1003,03/11/2018,masculino,19,20:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,
+1004,04/11/2018,masculino,28,01:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,
+1005,05/11/2018,masculino,25,17:27:00,ARMA DE FOGO,Belira,São Luís,
+1006,05/11/2018,feminino,37,11:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,
+1007,06/11/2018,feminino,30,19:48:00,ARMA BRANCA,Barreto,São Luís,
+1008,07/11/2018,masculino,33,03:00:00,ARMA BRANCA,Vila Embratel,São Luís,
+1009,08/11/2018,masculino,20,00:00:00,ARMA BRANCA,Camboa,São Luís,
+1010,11/11/2018,masculino,28,20:00:00,ARMA DE FOGO,Maracanã,São Luís,
+1011,11/11/2018,masculino,35,01:00:00,ARMA DE FOGO,Vila Palmeira,São Luís,
+1012,12/11/2018,masculino,34,16:40:00,ARMA DE FOGO,Geniparanã,São Luís,
+1013,13/11/2018,masculino,38,20:06:00,ARMA BRANCA,Cajueiro,São Luís,
+1014,15/11/2018,masculino,28,23:00:00,ARMA DE FOGO,Maracanã,São Luís,
+1015,16/11/2018,masculino,35,23:30:00,ARMA DE FOGO,Residencial Jardim Primavera,Paço do Lumiar,
+1016,16/11/2018,masculino,16,,ARMA DE FOGO,Fátima,São Luís,
+1017,16/11/2018,masculino,28,03:00:00,ARMA DE FOGO,Jardim Conceição,São Luís,
+1018,19/11/2018,masculino,21,00:50:00,ARMA DE FOGO,Jardim Eldorado,São Luís,
+1019,20/11/2018,masculino,19,08:00:00,ARMA DE FOGO,Liberdade,São Luís,
+1020,21/11/2018,masculino,23,08:08:00,ARMA DE FOGO,Vila Bacanga,São Luís,
+1021,22/11/2018,masculino,26,19:00:00,ARMA DE FOGO,Caúra,São José de Ribamar,
+1022,22/11/2018,masculino,25,19:00:00,ARMA DE FOGO,Caúra,São José de Ribamar,
+1023,22/11/2018,masculino,19,22:00:00,ARMA DE FOGO,Vila Luizão,São Luís,
+1024,23/11/2018,feminino,43,05:35:00,ARMA DE FOGO,Camboa,São Luís,
+1025,25/11/2018,masculino,45,05:20:00,ARMA DE FOGO,Residencial Ribeira,São Luís,
+1026,27/11/2018,masculino,21,22:00:00,ARMA DE FOGO,Residencial Nova Jerusalém,Paço do Lumiar,
+1027,27/11/2018,masculino,,,ARMA DE FOGO,Boa Viagem,São José de Ribamar,
+1028,29/11/2018,masculino,21,14:30:00,ARMA DE FOGO,Jardim América,São Luís,
+1029,31/10/2018,masculino,63,14:00:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,
+1030,01/12/2018,masculino,52,06:00:00,ARMA BRANCA,Pontal da Ilha,São Luís,
+1031,02/12/2018,masculino,22,06:00:00,ESPANCAMENTO,Centro-SJR,São José de Ribamar,
+1032,03/12/2018,masculino,30,07:30:00,ARMA BRANCA,Maranhão Novo,São Luís,
+1033,03/12/2018,masculino,22,14:30:00,ARMA BRANCA,Parque Nice Lobão,São Luís,
+1034,03/12/2018,masculino,24,07:40:00,ARMA BRANCA,Camboa,São Luís,
+1035,03/12/2018,masculino,25,10:00:00,ARMA DE FOGO,Estiva,São Luís,
+1036,05/12/2018,masculino,31,21:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,
+1037,05/12/2018,masculino,45,18:00:00,ARMA BRANCA,Itapera,São Luís,
+1038,05/12/2018,masculino,22,13:00:00,ARMA DE FOGO,Vila dos Frades,São Luís,
+1039,08/12/2018,feminino,30,,ARMA BRANCA,Andiroba,São Luís,
+1040,09/12/2018,masculino,27,18:30:00,ARMA BRANCA,Porto Grande,São Luís,
+1041,14/12/2018,masculino,37,13:35:00,ARMA DE FOGO,Alto do Farol,Raposa,
+1042,14/12/2018,masculino,23,22:46:00,ARMA BRANCA,São Francisco,São Luís,
+1043,15/12/2018,masculino,42,03:00:00,ARMA BRANCA,Centro-SLZ,São Luís,
+1044,16/12/2018,masculino,48,02:40:00,ARMA DE FOGO,Vera Cruz,São Luís,
+1045,17/12/2018,masculino,22,15:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+1046,17/12/2018,masculino,17,15:00:00,ARMA DE FOGO,Pedrinhas,São Luís,
+1047,17/12/2018,masculino,43,01:40:00,ESPANCAMENTO,Vila Luizão,São Luís,
+1048,18/12/2018,masculino,20,22:52:00,ARMA DE FOGO,Planalto Vinhais II,São Luís,
+1049,20/12/2018,feminino,38,01:00:00,ARMA BRANCA,Santa Clara,São Luís,
+1050,22/12/2018,masculino,24,22:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,
+1051,23/12/2018,masculino,37,11:00:00,ARMA DE FOGO,Moropóia,São José de Ribamar,
+1052,25/12/2018,masculino,29,04:30:00,ARMA BRANCA,Pirâmide,Paço do Lumiar,
+1053,25/12/2018,masculino,33,18:40:00,ARMA BRANCA,Sítio do Apicum,São José de Ribamar,
+1054,25/12/2018,masculino,30,01:00:00,ESPANCAMENTO,Macaúba,São Luís,
+1055,25/12/2018,masculino,20,16:30:00,ARMA BRANCA,Fátima,São Luís,
+1056,28/12/2018,masculino,30,16:00:00,ARMA BRANCA,Cidade Operária,São Luís,
+1057,29/12/2018,masculino,18,17:00:00,ARMA DE FOGO,Cidade Operária,São Luís,
+1058,31/12/2018,masculino,69,05:00:00,ARMA BRANCA,Geniparanã,São Luís,
+1059,31/12/2018,masculino,17,15:30:00,ARMA DE FOGO,Vicente Fialho,São Luís,
+1060,31/12/2018,masculino,25,12:00:00,ARMA DE FOGO,Recanto Fialho,São Luís,
+1061,31/12/2018,masculino,36,14:26:00,ARMA DE FOGO,Fátima,São Luís,
+1062,01/01/2019,masculino,34,22:00:00,ARMA DE FOGO,Alto da Esperança,São Luís,HOMICÍDIO DOLOSO
+1063,02/01/2019,masculino,19,08:54:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1064,03/01/2019,masculino,18,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1065,03/01/2019,masculino,14,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1066,03/01/2019,masculino,17,13:00:00,ARMA DE FOGO,Coquilho,São Luís,HOMICÍDIO DOLOSO
+1067,06/01/2019,masculino,23,03:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1068,06/01/2019,masculino,19,03:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1069,06/01/2019,masculino,54,21:15:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1070,11/01/2019,masculino,20,05:07:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1071,11/01/2019,masculino,30,15:38:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1072,11/01/2019,feminino,25,21:36:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1073,12/01/2019,masculino,14,20:17:00,ARMA DE FOGO,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+1074,12/01/2019,masculino,61,00:50:00,ARMA BRANCA,Residencial Pinheiros,São Luís,LATROCÍNIO
+1075,12/01/2019,masculino,18,19:43:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1076,13/01/2019,masculino,27,19:00:00,ARMA DE FOGO,Vila Zenir,São Luís,HOMICÍDIO DOLOSO
+1077,15/01/2019,masculino,25,09:20:00,ARMA DE FOGO,Sítio Natureza,São Luís,HOMICÍDIO DOLOSO
+1078,15/01/2019,masculino,27,09:20:00,ARMA DE FOGO,Sítio Natureza,São Luís,HOMICÍDIO DOLOSO
+1079,15/01/2019,masculino,23,19:50:00,ARMA DE FOGO,Vila Progresso – Recanto dos Vinhais,São Luís,HOMICÍDIO DOLOSO
+1080,18/01/2019,masculino,46,03:00:00,ARMA BRANCA,Vila Progresso – Recanto dos Vinhais,São Luís,LATROCÍNIO
+1081,19/01/2019,masculino,39,10:40:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1082,20/01/2019,masculino,41,23:40:00,ARMA BRANCA,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+1083,21/01/2019,masculino,40,00:54:00,ARMA BRANCA,Maranhão Novo,São Luís,HOMICÍDIO DOLOSO
+1084,21/01/2019,masculino,44,,ARMA BRANCA,Ipase,São Luís,HOMICÍDIO DOLOSO
+1085,22/01/2019,masculino,39,16:43:00,ARMA DE FOGO,Pirâmide,Paço do Lumiar,HOMICÍDIO DOLOSO
+1086,22/01/2019,masculino,20,22:59:00,ARMA DE FOGO,Residencial Nestor,São Luís,MORTE D I POLICIAL
+1087,24/01/2019,masculino,19,18:01:00,ARMA DE FOGO,Santo Antônio,São Luís,HOMICÍDIO DOLOSO
+1088,24/01/2019,masculino,20,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1089,24/01/2019,masculino,26,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1090,24/01/2019,masculino,28,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1091,24/01/2019,masculino,18,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1092,24/01/2019,masculino,19,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1093,24/01/2019,masculino,33,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1094,24/01/2019,masculino,35,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1095,24/01/2019,masculino,30,14:30:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,MORTE D I POLICIAL
+1096,24/01/2019,masculino,30,11:30:00,ARMA DE FOGO,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1097,26/01/2019,masculino,25,18:45:00,ARMA DE FOGO,Pedrinhas,São Luís,LATROCÍNIO
+1098,26/01/2019,masculino,49,19:03:00,ARMA DE FOGO,Cidade Olímpica,São Luís,LATROCÍNIO
+1099,27/01/2019,masculino,15,14:24:00,ARMA DE FOGO,Piçarreira,São José de Ribamar,LATROCÍNIO
+1100,28/01/2019,masculino,26,03:13:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1101,29/01/2019,masculino,31,18:32:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1102,30/01/2019,masculino,16,08:16:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1103,31/01/2019,masculino,23,03:45:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1104,01/02/2019,masculino,35,17:11:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1105,02/02/2019,feminino,38,19:00:00,ARMA BRANCA,Juçatuba,São José de Ribamar,HOMICÍDIO DOLOSO
+1106,03/02/2019,masculino,15,07:16:00,ARMA DE FOGO,Cumbique,Raposa,HOMICÍDIO DOLOSO
+1107,04/02/2019,masculino,34,18:00:00,ARMA DE FOGO,Cajupe,São Luís,MORTE D I POLICIAL
+1108,05/02/2019,masculino,35,19:30:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1109,05/02/2019,masculino,28,19:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1110,07/02/2019,masculino,40,08:39:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1111,09/02/2019,masculino,18,12:00:00,ARMA DE FOGO,Vila Sarney,São Luís,HOMICÍDIO DOLOSO
+1112,10/02/2019,masculino,26,01:05:00,ARMA BRANCA,Vila Sarney,São Luís,HOMICÍDIO DOLOSO
+1113,11/02/2019,masculino,19,20:12:00,ARMA DE FOGO,Calhau,São Luís,HOMICÍDIO DOLOSO
+1114,11/02/2019,feminino,69,,ESTRANGULAMENTO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1115,14/02/2019,masculino,37,21:30:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1116,15/02/2019,feminino,48,18:00:00,ARMA BRANCA,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1117,15/02/2019,masculino,27,09:02:00,ARMA DE FOGO,Goiabal,São Luís,MORTE POSTERIOR
+1118,16/02/2019,masculino,30,19:28:00,ARMA DE FOGO,Vila Roseana Sarney,Paço do Lumiar,HOMICÍDIO DOLOSO
+1119,17/02/2019,masculino,42,04:00:00,ARMA BRANCA,Santa Cruz,São Luís,HOMICÍDIO DOLOSO
+1120,19/02/2019,masculino,51,18:30:00,ARMA DE FOGO,Alto do Farol,Raposa,LATROCÍNIO
+1121,20/02/2019,masculino,16,,ARMA DE FOGO,Inhaúma,São Luís,HOMICÍDIO DOLOSO
+1122,24/02/2019,masculino,20,20:40:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1123,26/02/2019,masculino,26,08:24:00,ARMA DE FOGO,Residencial Terra Livre,São José de Ribamar,HOMICÍDIO DOLOSO
+1124,26/02/2019,masculino,34,19:46:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1125,27/02/2019,masculino,14,,ARMA BRANCA,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1126,27/02/2019,masculino,32,20:00:00,OUTROS MEIOS,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1127,28/02/2019,masculino,20,11:00:00,ARMA DE FOGO,Vila Operária,São José de Ribamar,HOMICÍDIO DOLOSO
+1128,28/02/2019,masculino,24,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1129,28/02/2019,masculino,24,16:00:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1130,28/02/2019,masculino,19,20:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1131,02/03/2019,masculino,24,11:50:00,ARMA DE FOGO,J. Lima,São José de Ribamar,HOMICÍDIO DOLOSO
+1132,02/03/2019,masculino,18,20:21:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1133,04/03/2019,masculino,42,17:27:00,ARMA BRANCA,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1134,07/03/2019,masculino,65,23:00:00,ARMA BRANCA,Tibiri,São Luís,LATROCÍNIO
+1135,09/03/2019,masculino,22,09:29:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1136,10/03/2019,masculino,18,19:37:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1137,11/03/2019,masculino,17,20:05:00,ARMA DE FOGO,Ipase,São Luís,HOMICÍDIO DOLOSO
+1138,13/03/2019,masculino,19,15:30:00,ARMA DE FOGO,Residencial Ivaldo Rodrigues,São Luís,HOMICÍDIO DOLOSO
+1139,14/03/2019,masculino,21,08:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1140,14/03/2019,masculino,43,06:00:00,ARMA BRANCA,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1141,15/03/2019,masculino,35,06:00:00,ARMA DE FOGO,Madre Deus,São Luís,LATROCÍNIO
+1142,15/03/2019,masculino,21,10:16:00,ARMA DE FOGO,Cantinho do Céu,São Luís,MORTE D I POLICIAL
+1143,16/03/2019,masculino,21,02:30:00,ARMA DE FOGO,Inhaúma,São Luís,HOMICÍDIO DOLOSO
+1144,18/03/2019,masculino,37,21:00:00,ARMA DE FOGO,Recanto Fialho,São Luís,HOMICÍDIO DOLOSO
+1145,19/03/2019,masculino,16,17:00:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1146,20/03/2019,masculino,26,21:36:00,ARMA DE FOGO,Matinha,São José de Ribamar,LESÃO C S MORTE
+1147,21/03/2019,masculino,,23:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1148,23/03/2019,masculino,24,19:30:00,ARMA DE FOGO,Residencial Nova Terra,São José de Ribamar,HOMICÍDIO DOLOSO
+1149,25/03/2019,masculino,38,20:19:00,ARMA DE FOGO,Monte Castelo,São Luís,LATROCÍNIO
+1150,29/03/2019,masculino,21,16:25:00,ARMA DE FOGO,Vila Maracujá,São Luís,HOMICÍDIO DOLOSO
+1151,31/03/2019,masculino,17,22:40:00,ARMA DE FOGO,Planalto Turu I,São Luís,HOMICÍDIO DOLOSO
+1152,31/03/2019,masculino,43,23:55:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1153,01/04/2019,masculino,55,02:10:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1154,01/04/2019,masculino,23,14:40:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1155,07/04/2019,masculino,24,21:00:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+1156,07/04/2019,masculino,22,21:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1157,08/04/2019,masculino,19,16:00:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1158,10/04/2019,masculino,24,01:00:00,ARMA BRANCA,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1159,13/04/2019,masculino,24,20:00:00,ARMA DE FOGO,Santa Cruz,São Luís,HOMICÍDIO DOLOSO
+1160,12/04/2019,masculino,68,07:05:00,ARMA BRANCA,Aurora,São Luís,MORTE D I POLICIAL
+1161,14/04/2019,masculino,28,00:35:00,ARMA BRANCA,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1162,14/04/2019,masculino,18,07:00:00,ARMA DE FOGO,Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1163,16/04/2019,masculino,45,21:50:00,ESPANCAMENTO,Cumbique,Paço do Lumiar,HOMICÍDIO DOLOSO
+1164,17/04/2019,masculino,20,15:30:00,ARMA BRANCA,Caúra,São José de Ribamar,HOMICÍDIO DOLOSO
+1165,19/04/2019,masculino,24,08:30:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,LATROCÍNIO
+1166,19/04/2019,masculino,26,22:00:00,ARMA DE FOGO,Cohab-Anil I,São Luís,HOMICÍDIO DOLOSO
+1167,20/04/2019,masculino,38,22:20:00,ARMA BRANCA,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1168,21/04/2019,masculino,45,02:00:00,ARMA DE FOGO,Parque Bob Kennedy,Paço do Lumiar,HOMICÍDIO DOLOSO
+1169,22/04/2019,masculino,25,15:00:00,ARMA DE FOGO,Batatan,São Luís,MORTE D I POLICIAL
+1170,23/04/2019,masculino,27,19:00:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1171,27/04/2019,masculino,27,23:00:00,ARMA BRANCA,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1172,30/04/2019,masculino,17,12:15:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1173,30/04/2019,masculino,76,17:30:00,ARMA DE FOGO,Andiroba,São Luís,HOMICÍDIO DOLOSO
+1174,30/04/2019,masculino,21,20:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1175,06/04/2019,masculino,42,18:30:00,ARMA DE FOGO,Fátima,São Luís,MORTE POSTERIOR
+1176,01/05/2019,masculino,23,,ARMA BRANCA,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1177,03/05/2019,masculino,20,19:00:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1178,04/05/2019,masculino,41,23:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1179,05/05/2019,masculino,20,22:00:00,ESPANCAMENTO,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1180,07/05/2019,feminino,,,,Vila do Povo,Paço do Lumiar,MORTE ESCLARECER
+1181,07/05/2019,masculino,35,22:26:00,ARMA DE FOGO,Vila Cabral Miranda I,São Luís,HOMICÍDIO DOLOSO
+1182,08/05/2019,masculino,29,18:07:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1183,08/05/2019,masculino,21,23:40:00,ARMA DE FOGO,Chácara Brasil,São Luís,MORTE D I POLICIAL
+1184,08/05/2019,masculino,25,18:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,MORTE D I POLICIAL
+1185,09/05/2019,masculino,19,17:09:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1186,11/05/2019,masculino,29,11:37:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,HOMICÍDIO DOLOSO
+1187,11/05/2019,masculino,21,18:02:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1188,12/05/2019,feminino,46,20:30:00,ESTRANGULAMENTO,Vila Bacanga,São Luís,HOMICÍDIO DOLOSO
+1189,12/05/2019,masculino,22,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1190,12/05/2019,masculino,20,08:14:00,ARMA DE FOGO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1191,12/05/2019,masculino,15,02:00:00,ARMA DE FOGO,Coroadinho,São Luís,MORTE D I POLICIAL
+1192,12/05/2019,masculino,23,18:00:00,ARMA DE FOGO,Residencial Eugênio Pereira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1193,13/05/2019,masculino,39,14:39:00,ARMA DE FOGO,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+1194,14/05/2019,masculino,44,06:00:00,ARMA DE FOGO,Residencial Olímpico,São José de Ribamar,HOMICÍDIO DOLOSO
+1195,15/05/2019,masculino,27,20:00:00,ARMA DE FOGO,Camboa,São Luís,LESÃO C S MORTE
+1196,15/05/2019,masculino,30,12:23:00,ARMA DE FOGO,Vila dos Frades,São Luís,HOMICÍDIO DOLOSO
+1197,16/05/2019,masculino,17,21:33:00,ARMA DE FOGO,Retiro Natal,São Luís,HOMICÍDIO DOLOSO
+1198,16/05/2019,masculino,50,16:47:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1199,17/05/2019,masculino,19,17:30:00,ARMA DE FOGO,Sol e Mar,São Luís,MORTE D I POLICIAL
+1200,18/05/2019,masculino,23,23:50:00,ARMA DE FOGO,Ilha de Jacamim,São Luís,HOMICÍDIO DOLOSO
+1201,18/05/2019,masculino,24,12:29:00,ARMA DE FOGO,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+1202,24/05/2019,masculino,21,10:00:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,MORTE D I POLICIAL
+1203,27/05/2019,masculino,33,06:26:00,ARMA DE FOGO,Vila Maranhão,São Luís,HOMICÍDIO DOLOSO
+1204,28/05/2019,masculino,29,21:00:00,ESPANCAMENTO,Quintas do Calhau,São Luís,HOMICÍDIO DOLOSO
+1205,29/05/2019,masculino,18,04:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1206,29/05/2019,masculino,22,04:00:00,ARMA DE FOGO,Estiva,São Luís,
+1207,31/05/2019,masculino,26,18:30:00,ARMA DE FOGO,Pirapora,São Luís,HOMICÍDIO DOLOSO
+1208,02/06/2019,masculino,40,05:07:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1209,02/06/2019,masculino,19,21:38:00,ARMA BRANCA,Vila Janaína,São Luís,LATROCÍNIO
+1210,03/06/2019,masculino,21,18:54:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1211,04/06/2019,masculino,45,19:00:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1212,06/06/2019,masculino,71,19:20:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1213,07/06/2019,masculino,19,05:00:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1214,07/06/2019,masculino,17,14:15:00,ARMA DE FOGO,Vila São Sebastião,São Luís,HOMICÍDIO DOLOSO
+1215,08/06/2019,masculino,40,01:00:00,ARMA DE FOGO,Vila Nova-RPS,Raposa,HOMICÍDIO DOLOSO
+1216,09/06/2019,feminino,23,19:00:00,ARMA DE FOGO,Jaracaty,São Luís,LATROCÍNIO
+1217,11/06/2019,masculino,23,11:30:00,OUTROS MEIOS,Cohab,São Luís,MORTE ESCLARECER
+1218,12/06/2019,masculino,37,22:30:00,ARMA DE FOGO,Alto do Turu I,São José de Ribamar,HOMICÍDIO DOLOSO
+1219,13/06/2019,masculino,31,07:00:00,ARMA DE FOGO,Jardim das Mercês,Paço do Lumiar,HOMICÍDIO DOLOSO
+1220,13/06/2019,masculino,22,09:00:00,ARMA BRANCA,Pedrinhas,São Luís,MORTE E PENAL
+1221,13/06/2019,masculino,43,18:50:00,ESPANCAMENTO,Vila Palmeira,São Luís,HOMICÍDIO DOLOSO
+1222,14/06/2019,masculino,20,15:00:00,ARMA DE FOGO,Miritiua,São José de Ribamar,MORTE D I POLICIAL
+1223,16/06/2019,masculino,23,21:40:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1224,17/06/2019,masculino,30,20:50:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1225,18/06/2019,masculino,25,10:40:00,ARMA DE FOGO,Cohab-Anil III,São Luís,HOMICÍDIO DOLOSO
+1226,20/06/2019,masculino,31,20:30:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1227,21/06/2019,masculino,31,11:20:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1228,21/06/2019,masculino,15,21:30:00,ARMA DE FOGO,Vila Cutia,São Luís,MORTE D I POLICIAL
+1229,23/06/2019,masculino,18,22:30:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+1230,24/06/2019,masculino,43,00:10:00,ARMA BRANCA,Vila Itamar,São Luís,HOMICÍDIO DOLOSO
+1231,24/06/2019,masculino,26,03:00:00,ESTRANGULAMENTO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+1232,24/06/2019,masculino,0,13:00:00,OUTROS MEIOS,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1233,24/06/2019,masculino,40,22:00:00,ARMA BRANCA,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1234,25/06/2019,masculino,35,00:01:00,OUTROS MEIOS,Vila Palmeira,São Luís,LATROCÍNIO
+1235,28/06/2019,masculino,64,18:20:00,ARMA DE FOGO,Maracanã,São Luís,LATROCÍNIO
+1236,28/06/2019,masculino,,23:00:00,ARMA DE FOGO,Vila Conceição – João de Deus,São Luís,HOMICÍDIO DOLOSO
+1237,29/06/2019,masculino,,15:20:00,ARMA DE FOGO,Planalto Anil I,São Luís,HOMICÍDIO DOLOSO
+1238,01/07/2019,masculino,16,02:00:00,ARMA DE FOGO,Maioba,Paço do Lumiar,HOMICÍDIO DOLOSO
+1239,06/07/2019,masculino,30,22:45:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1240,06/07/2019,masculino,68,19:30:00,ARMA DE FOGO,Piquizeiro,São Luís,HOMICÍDIO DOLOSO
+1241,07/07/2019,feminino,16,04:00:00,OUTROS MEIOS,Aterro do Bacanga,São Luís,HOMICÍDIO DOLOSO
+1242,10/07/2019,masculino,18,13:00:00,ARMA DE FOGO,Ponta D'areia,São Luís,MORTE D I POLICIAL
+1243,12/07/2019,masculino,29,00:10:00,ARMA DE FOGO,São Francisco,São Luís,LATROCÍNIO
+1244,14/07/2019,masculino,38,22:00:00,ARMA DE FOGO,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+1245,15/07/2019,masculino,23,10:00:00,ARMA DE FOGO,Vila Santa Terezinha,São Luís,MORTE D I POLICIAL
+1246,20/07/2019,masculino,23,01:30:00,OUTROS MEIOS,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1247,21/07/2019,masculino,33,19:00:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1248,24/07/2019,masculino,22,16:30:00,ARMA DE FOGO,Vila Esperança,São Luís,HOMICÍDIO DOLOSO
+1249,26/07/2019,masculino,30,18:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1250,27/07/2019,masculino,23,21:30:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1251,28/07/2019,masculino,23,23:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1252,03/08/2019,masculino,27,20:00:00,ARMA DE FOGO,Cohatrac I,São Luís,HOMICÍDIO DOLOSO
+1253,03/08/2019,masculino,22,15:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1254,03/08/2019,masculino,22,20:30:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1255,03/08/2019,masculino,38,00:40:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1256,04/08/2019,masculino,31,,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1257,05/08/2019,feminino,18,01:00:00,ARMA DE FOGO,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1258,08/08/2019,masculino,45,23:57:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1259,10/08/2019,masculino,31,10:00:00,ESPANCAMENTO,Vila Esperança,São Luís,HOMICÍDIO DOLOSO
+1260,10/08/2019,masculino,34,05:50:00,ARMA BRANCA,Vila Sarney Filho I,São José de Ribamar,LATROCÍNIO
+1261,13/08/2019,masculino,69,05:50:00,ARMA DE FOGO,Araçagi,São Luís,LATROCÍNIO
+1262,15/08/2019,masculino,18,15:00:00,ARMA DE FOGO,Jordôa,São Luís,HOMICÍDIO DOLOSO
+1263,16/08/2019,masculino,39,13:00:00,ARMA DE FOGO,Anil,São Luís,HOMICÍDIO DOLOSO
+1264,16/08/2019,masculino,23,19:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1265,16/08/2019,masculino,17,15:30:00,ARMA DE FOGO,Tibiri,São Luís,HOMICÍDIO DOLOSO
+1266,16/08/2019,feminino,50,05:30:00,ARMA DE FOGO,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1267,17/08/2019,masculino,43,15:40:00,ARMA DE FOGO,Quebra Pote,São Luís,LATROCÍNIO
+1268,18/08/2019,masculino,47,19:50:00,ARMA BRANCA,Anil,São Luís,LATROCÍNIO
+1269,19/08/2019,masculino,32,14:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1270,19/08/2019,feminino,42,,ESTRANGULAMENTO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1271,19/08/2019,masculino,23,15:00:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+1272,20/08/2019,masculino,19,20:00:00,ARMA DE FOGO,Bom Jardim,São José de Ribamar,HOMICÍDIO DOLOSO
+1273,20/08/2019,feminino,30,21:00:00,ARMA BRANCA,Parque Araçagi,São José de Ribamar,HOMICÍDIO DOLOSO
+1274,20/08/2019,masculino,48,18:00:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1275,21/08/2019,masculino,,,OUTROS MEIOS,Turiúba,São José de Ribamar,MORTE ESCLARECER
+1276,24/08/2019,masculino,25,20:20:00,ARMA DE FOGO,São Bernardo,São Luís,HOMICÍDIO DOLOSO
+1277,24/08/2019,masculino,25,10:30:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,LATROCÍNIO
+1278,25/08/2019,masculino,24,15:40:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1279,25/08/2019,masculino,25,08:00:00,ARMA DE FOGO,Filipinho,São Luís,HOMICÍDIO DOLOSO
+1280,26/08/2019,,,12:00:00,OUTROS MEIOS,Calhau,São Luís,MORTE ESCLARECER
+1281,26/08/2019,masculino,28,13:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+1282,27/08/2019,masculino,17,11:30:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1283,29/08/2019,,,13:00:00,OUTROS MEIOS,São Raimundo,São Luís,MORTE ESCLARECER
+1284,30/08/2019,masculino,36,07:01:00,ARMA DE FOGO,Barreto,São Luís,HOMICÍDIO DOLOSO
+1285,31/08/2019,masculino,25,23:00:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+1286,31/08/2019,masculino,40,14:00:00,ARMA DE FOGO,Vila São Luís – Bacanga,São Luís,HOMICÍDIO DOLOSO
+1287,01/09/2019,masculino,33,00:15:00,ARMA DE FOGO,Residencial Nova Vida,São Luís,HOMICÍDIO DOLOSO
+1288,01/09/2019,masculino,28,14:30:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1289,02/09/2019,masculino,25,17:12:00,ARMA DE FOGO,Tibiri,São Luís,HOMICÍDIO DOLOSO
+1290,04/09/2019,feminino,36,03:50:00,ARMA DE FOGO,Maiobinha,São José de Ribamar,HOMICÍDIO DOLOSO
+1291,06/09/2019,masculino,21,01:40:00,ARMA DE FOGO,Vila Brasil,São Luís,HOMICÍDIO DOLOSO
+1292,06/09/2019,masculino,62,14:00:00,ARMA DE FOGO,Calhau,São Luís,LATROCÍNIO
+1293,06/09/2019,masculino,18,09:50:00,ARMA DE FOGO,Pirapora,São Luís,MORTE D I POLICIAL
+1294,06/09/2019,masculino,33,19:00:00,ARMA DE FOGO,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1295,07/09/2019,masculino,22,17:00:00,ARMA BRANCA,Monte Castelo,São Luís,HOMICÍDIO DOLOSO
+1296,13/09/2019,masculino,18,13:35:00,ARMA DE FOGO,Santa Clara,São Luís,HOMICÍDIO DOLOSO
+1297,13/09/2019,masculino,25,07:50:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1298,15/09/2019,masculino,26,06:00:00,ARMA BRANCA,Vila Janaína,São Luís,HOMICÍDIO DOLOSO
+1299,19/09/2019,masculino,35,15:40:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1300,19/09/2019,masculino,19,23:40:00,ARMA DE FOGO,Porto de Mocajituba,Paço do Lumiar,HOMICÍDIO DOLOSO
+1301,20/09/2019,masculino,68,07:30:00,OUTROS MEIOS,Residencial Itaguará,São José de Ribamar,HOMICÍDIO DOLOSO
+1302,20/09/2019,masculino,58,20:37:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1303,20/09/2019,masculino,24,23:00:00,ARMA DE FOGO,Pindaí,São José de Ribamar,HOMICÍDIO DOLOSO
+1304,20/09/2019,masculino,43,00:01:00,ARMA BRANCA,Coqueiro,São Luís,HOMICÍDIO DOLOSO
+1305,21/09/2019,masculino,53,22:00:00,ARMA BRANCA,Jardim Tropical II,São José de Ribamar,MORTE ESCLARECER
+1306,22/09/2019,masculino,36,09:00:00,OUTROS MEIOS,Vila Progresso – Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1307,29/09/2019,masculino,35,01:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1308,30/09/2019,masculino,21,01:00:00,ESPANCAMENTO,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1309,30/09/2019,masculino,26,09:30:00,ARMA DE FOGO,Vila Cascavel,São Luís,HOMICÍDIO DOLOSO
+1310,01/10/2019,masculino,22,20:40:00,ARMA DE FOGO,Vila Cafeteira-PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+1311,03/10/2019,masculino,52,09:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1312,03/10/2019,masculino,36,16:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1313,07/10/2019,masculino,26,20:13:00,ARMA DE FOGO,Itapera,São Luís,HOMICÍDIO DOLOSO
+1314,07/10/2019,masculino,24,18:55:00,ARMA DE FOGO,São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1315,07/10/2019,masculino,17,,OUTROS MEIOS,Miritiua,São José de Ribamar,HOMICÍDIO DOLOSO
+1316,08/10/2019,masculino,24,20:49:00,ARMA DE FOGO,Pedrinhas,São Luís,HOMICÍDIO DOLOSO
+1317,11/10/2019,feminino,33,09:30:00,ARMA DE FOGO,Outeiro da Cruz,São Luís,HOMICÍDIO DOLOSO
+1318,11/10/2019,masculino,37,13:00:00,ARMA BRANCA,Conjunto Paranã I,Paço do Lumiar,HOMICÍDIO DOLOSO
+1319,13/10/2019,masculino,18,10:40:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1320,13/10/2019,masculino,24,15:00:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1321,13/10/2019,masculino,46,23:00:00,OUTROS MEIOS,Residencial Nova Vida,São Luís,LESÃO C S MORTE
+1322,14/10/2019,masculino,19,23:00:00,ARMA BRANCA,Santa Rosa,São Luís,HOMICÍDIO DOLOSO
+1323,15/10/2019,masculino,31,21:40:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1324,16/10/2019,masculino,21,20:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+1325,16/10/2019,masculino,33,20:30:00,ARMA DE FOGO,Residencial José Reinaldo Tavares,São Luís,HOMICÍDIO DOLOSO
+1326,17/10/2019,masculino,39,08:43:00,ARMA DE FOGO,Cohab-Anil II,São Luís,HOMICÍDIO DOLOSO
+1327,19/10/2019,masculino,32,20:20:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1328,19/10/2019,masculino,19,12:00:00,ARMA DE FOGO,Santo Antônio,São Luís,HOMICÍDIO DOLOSO
+1329,19/10/2019,masculino,16,14:30:00,ARMA DE FOGO,Vila Valian,São Luís,MORTE D I POLICIAL
+1330,20/10/2019,masculino,52,05:50:00,ARMA BRANCA,Cohabiano,São Luís,HOMICÍDIO DOLOSO
+1331,20/10/2019,masculino,28,20:30:00,ARMA DE FOGO,Cohab-Anil II,São Luís,HOMICÍDIO DOLOSO
+1332,20/10/2019,masculino,20,19:00:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1333,23/10/2019,masculino,26,15:00:00,OUTROS MEIOS,Vila Samara,São Luís,HOMICÍDIO DOLOSO
+1334,23/10/2019,masculino,35,00:05:00,OUTROS MEIOS,Residencial Ribeira,São Luís,MORTE ESCLARECER
+1335,25/10/2019,masculino,22,19:30:00,ARMA DE FOGO,Cohab-Anil I,São Luís,HOMICÍDIO DOLOSO
+1336,26/10/2019,masculino,28,13:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,MORTE POSTERIOR
+1337,27/10/2019,masculino,55,22:00:00,ARMA DE FOGO,Novo Paço,Paço do Lumiar,HOMICÍDIO DOLOSO
+1338,29/10/2019,feminino,59,21:49:00,OUTROS MEIOS,Residencial Eugênio Pereira,Paço do Lumiar,LATROCÍNIO
+1339,29/10/2019,masculino,21,09:00:00,ARMA DE FOGO,Parque Bob Kennedy,Paço do Lumiar,MORTE D I POLICIAL
+1340,04/11/2019,masculino,55,16:30:00,ARMA DE FOGO,Centro-SLZ,São Luís,LATROCÍNIO
+1341,06/11/2019,masculino,28,,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1342,08/11/2019,masculino,22,19:30:00,ARMA DE FOGO,Salinas do Sacavém,São Luís,HOMICÍDIO DOLOSO
+1343,10/11/2019,masculino,75,00:00:00,ARMA BRANCA,J. Câmara,São José de Ribamar,HOMICÍDIO DOLOSO
+1344,11/11/2019,masculino,18,20:37:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1345,12/11/2019,masculino,24,07:51:00,ARMA DE FOGO,Jaracaty,São Luís,MORTE D I POLICIAL
+1346,14/11/2019,masculino,29,20:00:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1347,16/11/2019,masculino,19,11:00:00,ARMA DE FOGO,Vila Isabel,São Luís,HOMICÍDIO DOLOSO
+1348,16/11/2019,masculino,56,21:00:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1349,17/11/2019,masculino,51,10:00:00,ARMA DE FOGO,Sacavém,São Luís,HOMICÍDIO DOLOSO
+1350,17/11/2019,masculino,37,10:50:00,ARMA DE FOGO,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1351,17/11/2019,masculino,49,22:00:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1352,18/11/2019,masculino,42,16:30:00,ARMA DE FOGO,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1353,19/11/2019,masculino,29,10:40:00,ARMA DE FOGO,Vinhais,São Luís,HOMICÍDIO DOLOSO
+1354,19/11/2019,masculino,32,19:54:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+1355,20/11/2019,masculino,24,06:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1356,20/11/2019,masculino,26,20:00:00,ARMA DE FOGO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1357,22/11/2019,masculino,19,10:30:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+1358,22/11/2019,masculino,17,10:30:00,ARMA DE FOGO,Pedrinhas,São Luís,MORTE D I POLICIAL
+1359,24/11/2019,masculino,40,17:15:00,ARMA BRANCA,Olho D’água,São Luís,HOMICÍDIO DOLOSO
+1360,25/11/2019,masculino,25,19:00:00,ARMA DE FOGO,Residencial Jardim Primavera,Paço do Lumiar,HOMICÍDIO DOLOSO
+1361,30/11/2019,masculino,16,23:00:00,ARMA DE FOGO,Jardim Tropical,São José de Ribamar,HOMICÍDIO DOLOSO
+1362,30/11/2019,masculino,21,03:30:00,ARMA BRANCA,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1363,30/11/2019,masculino,61,22:00:00,ARMA BRANCA,Divinéia,São Luís,LATROCÍNIO
+1364,30/11/2019,masculino,28,11:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1365,01/12/2019,masculino,17,22:50:00,ARMA BRANCA,Alemanha,São Luís,MORTE ESCLARECER
+1366,02/12/2019,masculino,31,14:40:00,ARMA DE FOGO,Pedrinhas,São Luís,LESÃO C S MORTE
+1367,03/12/2019,masculino,30,12:40:00,ARMA DE FOGO,Maiobão,Paço do Lumiar,HOMICÍDIO DOLOSO
+1368,03/12/2019,masculino,33,00:00:00,ARMA BRANCA,São José dos Índios,São José de Ribamar,HOMICÍDIO DOLOSO
+1369,10/12/2019,masculino,41,12:00:00,ARMA BRANCA,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1370,10/12/2019,masculino,43,08:00:00,ARMA DE FOGO,Coroado,São Luís,HOMICÍDIO DOLOSO
+1371,11/12/2019,masculino,41,18:20:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1372,11/12/2019,masculino,23,18:30:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1373,13/12/2019,masculino,44,19:30:00,ARMA DE FOGO,Jardim Santa Clara,Paço do Lumiar,HOMICÍDIO DOLOSO
+1374,14/12/2019,masculino,35,13:34:00,ARMA DE FOGO,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1375,15/12/2019,masculino,59,04:00:00,ARMA BRANCA,Distrito Industrial,São Luís,HOMICÍDIO DOLOSO
+1376,19/12/2019,masculino,21,02:00:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,MORTE D I POLICIAL
+1377,20/12/2019,masculino,50,19:00:00,ARMA DE FOGO,Vila Conceição – Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1378,21/12/2019,masculino,46,18:20:00,ARMA DE FOGO,Cruzeiro,São José de Ribamar,LATROCÍNIO
+1379,21/12/2019,masculino,49,01:00:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1380,21/12/2019,masculino,32,05:30:00,ARMA BRANCA,Estiva,São Luís,HOMICÍDIO DOLOSO
+1381,21/12/2019,masculino,15,23:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1382,22/12/2019,masculino,21,08:00:00,ARMA BRANCA,Residencial Canaã,São Luís,HOMICÍDIO DOLOSO
+1383,22/12/2019,masculino,20,06:30:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1384,23/12/2019,masculino,23,16:30:00,ARMA DE FOGO,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1385,25/12/2019,masculino,46,03:00:00,ARMA BRANCA,Alto do Turu I,São José de Ribamar,MORTE ESCLARECER
+1386,27/12/2019,masculino,39,18:10:00,ARMA DE FOGO,João Paulo,São Luís,LATROCÍNIO
+1387,27/12/2019,feminino,32,18:00:00,ARMA DE FOGO,Santa Cruz,São Luís,LATROCÍNIO
+1388,29/12/2019,masculino,24,16:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1389,29/12/2019,masculino,45,19:30:00,ARMA DE FOGO,Vila Mauro Fecury II,São Luís,HOMICÍDIO DOLOSO
+1390,29/12/2019,masculino,23,19:00:00,ARMA DE FOGO,Vila São Sebastião,São Luís,MORTE D I POLICIAL
+1391,01/01/2020,masculino,46,05:27:00,ARMA DE FOGO,Vila Valian,São Luís,HOMICÍDIO DOLOSO
+1392,02/01/2020,masculino,19,09:30:00,ARMA BRANCA,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1393,03/01/2020,masculino,44,05:40:00,ARMA DE FOGO,Cohab-Anil III,São Luís,HOMICÍDIO DOLOSO
+1394,06/01/2020,masculino,40,02:30:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1395,09/01/2020,masculino,42,01:40:00,ARMA DE FOGO,Monte Castelo,São Luís,LATROCÍNIO
+1396,11/01/2020,masculino,25,00:00:00,ARMA BRANCA,Vila Vitória,São Luís,HOMICÍDIO DOLOSO
+1397,12/01/2020,masculino,20,12:00:00,ARMA DE FOGO,Campina,São José de Ribamar,HOMICÍDIO DOLOSO
+1398,13/01/2020,masculino,53,19:40:00,ESPANCAMENTO,Centro-SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1399,14/01/2020,feminino,59,05:00:00,ESPANCAMENTO,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1400,15/01/2020,masculino,16,14:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1401,16/01/2020,masculino,21,22:00:00,ARMA DE FOGO,Residencial Turiúba,São José de Ribamar,HOMICÍDIO DOLOSO
+1402,17/01/2020,masculino,39,00:00:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,HOMICÍDIO DOLOSO
+1403,17/01/2020,masculino,31,18:19:00,ARMA DE FOGO,Santa Bárbara,São Luís,LESÃO C S MORTE
+1404,18/01/2020,masculino,45,22:20:00,ARMA BRANCA,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1405,18/01/2020,masculino,34,20:15:00,ARMA BRANCA,Conjunto Alexandra Tavares,São Luís,HOMICÍDIO DOLOSO
+1406,20/01/2020,masculino,27,22:32:00,ARMA BRANCA,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1407,21/01/2020,masculino,47,18:18:00,ARMA DE FOGO,Residencial Olímpico,São José de Ribamar,HOMICÍDIO DOLOSO
+1408,21/01/2020,masculino,37,01:10:00,ARMA BRANCA,Vila Embratel,São Luís,HOMICÍDIO DOLOSO
+1409,22/01/2020,masculino,23,08:30:00,ARMA DE FOGO,Coheb Sacavém,São Luís,HOMICÍDIO DOLOSO
+1410,23/01/2020,masculino,19,02:45:00,ARMA DE FOGO,vila Mestre Antônio,São José de Ribamar,HOMICÍDIO DOLOSO
+1411,23/01/2020,masculino,19,15:30:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1412,25/01/2020,masculino,22,03:00:00,ARMA DE FOGO,Liberdade,São Luís,MORTE D I POLICIAL
+1413,25/01/2020,masculino,24,17:00:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1414,25/01/2020,feminino,23,17:00:00,ARMA DE FOGO,Vicente Fialho,São Luís,HOMICÍDIO DOLOSO
+1415,27/01/2020,masculino,20,21:30:00,ARMA DE FOGO,Jardim São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1416,28/01/2020,masculino,69,21:30:00,ARMA BRANCA,Alemanha,São Luís,HOMICÍDIO DOLOSO
+1417,28/01/2020,masculino,22,22:26:00,ARMA DE FOGO,Maracanã,São Luís,HOMICÍDIO DOLOSO
+1418,29/01/2020,masculino,16,17:00:00,ARMA DE FOGO,Vila Bacanga,São Luís,MORTE D I POLICIAL
+1419,29/01/2020,masculino,29,20:30:00,ARMA DE FOGO,Pirapora,São Luís,HOMICÍDIO DOLOSO
+1420,30/01/2020,feminino,48,07:23:00,ESTRANGULAMENTO,Santa Efigênia,São Luís,HOMICÍDIO DOLOSO
+1421,30/01/2020,masculino,27,09:30:00,ARMA BRANCA,Vila Zenir,São Luís,HOMICÍDIO DOLOSO
+1422,30/01/2020,masculino,39,20:21:00,ARMA DE FOGO,Bequimão,São Luís,HOMICÍDIO DOLOSO
+1423,31/01/2020,masculino,30,14:00:00,ARMA DE FOGO,Itapiracó,São Luís,HOMICÍDIO DOLOSO
+1424,02/02/2020,masculino,32,22:12:00,ARMA DE FOGO,Vila Roseana Sarney,São José de Ribamar,HOMICÍDIO DOLOSO
+1425,05/02/2020,masculino,24,12:00:00,ARMA DE FOGO,Estiva,São Luís,HOMICÍDIO DOLOSO
+1426,05/02/2020,masculino,32,19:40:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1427,05/02/2020,masculino,33,07:00:00,ESTRANGULAMENTO,Vila Isabel Cafeteira,São Luís,HOMICÍDIO DOLOSO
+1428,06/02/2020,masculino,28,22:00:00,ARMA DE FOGO,Tajaçuaba,São Luís,HOMICÍDIO DOLOSO
+1429,06/02/2020,feminino,26,09:16:00,ESTRANGULAMENTO,Tirirical,São Luís,HOMICÍDIO DOLOSO
+1430,07/02/2020,masculino,34,12:05:00,ARMA DE FOGO,Vila Laci,Raposa,HOMICÍDIO DOLOSO
+1431,08/02/2020,masculino,25,00:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,HOMICÍDIO DOLOSO
+1432,08/02/2020,masculino,26,11:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1433,09/02/2020,masculino,42,10:00:00,ARMA DE FOGO,Andiroba,São Luís,MORTE POSTERIOR
+1434,10/02/2020,masculino,48,05:30:00,ARMA DE FOGO,Cruzeiro de Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1435,11/02/2020,masculino,22,01:30:00,ESPANCAMENTO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1436,18/02/2020,masculino,69,00:01:00,ARMA DE FOGO,Maioba,Paço do Lumiar,LATROCÍNIO
+1437,20/02/2020,masculino,53,17:00:00,ARMA BRANCA,Vila Bacanga,São Luís,HOMICÍDIO DOLOSO
+1438,24/02/2020,feminino,56,02:00:00,OUTROS MEIOS,Centro-SLZ,São Luís,HOMICÍDIO DOLOSO
+1439,24/02/2020,masculino,28,12:00:00,ARMA BRANCA,Forquilha,São Luís,HOMICÍDIO DOLOSO
+1440,26/02/2020,masculino,28,11:30:00,ARMA DE FOGO,Alto do Turu II,São José de Ribamar,HOMICÍDIO DOLOSO
+1441,26/02/2020,masculino,18,22:40:00,ARMA DE FOGO,Cohabiano,São José de Ribamar,HOMICÍDIO DOLOSO
+1442,26/02/2020,masculino,55,06:27:00,ARMA DE FOGO,Miritiua,São José de Ribamar,HOMICÍDIO DOLOSO
+1443,26/02/2020,masculino,18,14:00:00,ARMA DE FOGO,Parque Araçagi,São José de Ribamar,HOMICÍDIO DOLOSO
+1444,26/02/2020,masculino,21,20:40:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1445,26/02/2020,masculino,24,14:45:00,ARMA DE FOGO,Parque vitória,São José de Ribamar,HOMICÍDIO DOLOSO
+1446,26/02/2020,masculino,17,20:30:00,ARMA DE FOGO,São Cristóvão,São Luís,HOMICÍDIO DOLOSO
+1447,27/02/2020,masculino,35,11:23:00,ARMA DE FOGO,Parque Florêncio,São José de Ribamar,MORTE D I POLICIAL
+1448,01/03/2020,masculino,30,15:30:00,ARMA DE FOGO,Residencial Tiradentes,São Luís,HOMICÍDIO DOLOSO
+1449,02/03/2020,masculino,22,18:30:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1450,02/03/2020,masculino,18,19:28:00,ARMA DE FOGO,Vila Conceição – Alto do Calhau,São Luís,HOMICÍDIO DOLOSO
+1451,03/03/2020,feminino,31,20:50:00,ESTRANGULAMENTO,Turiúba,São José de Ribamar,HOMICÍDIO DOLOSO
+1452,05/03/2020,masculino,18,04:30:00,ARMA DE FOGO,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+1453,05/03/2020,masculino,57,15:00:00,ARMA DE FOGO,Vila Nova República,São Luís,HOMICÍDIO DOLOSO
+1454,08/03/2020,masculino,25,03:00:00,ARMA DE FOGO,Parque Florêncio,Raposa,MORTE D I POLICIAL
+1455,11/03/2020,masculino,19,19:30:00,ARMA DE FOGO,Coroadinho,São Luís,LATROCÍNIO
+1456,15/03/2020,masculino,41,22:05:00,ARMA BRANCA,São Raimundo,São José de Ribamar,HOMICÍDIO DOLOSO
+1457,15/03/2020,masculino,27,15:30:00,ARMA DE FOGO,Vila Funil,São Luís,HOMICÍDIO DOLOSO
+1458,15/03/2020,masculino,43,19:00:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1459,16/03/2020,feminino,15,08:30:00,ARMA DE FOGO,Vila São Luís – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1460,17/03/2020,feminino,30,20:26:00,ARMA BRANCA,Cidade Operária,São Luís,LATROCÍNIO
+1461,20/03/2020,masculino,56,14:00:00,ARMA BRANCA,Boa Vista,Paço do Lumiar,HOMICÍDIO DOLOSO
+1462,20/03/2020,masculino,26,18:30:00,ARMA DE FOGO,Vila São José – SJR,São José de Ribamar,HOMICÍDIO DOLOSO
+1463,21/03/2020,masculino,36,14:00:00,ESPANCAMENTO,Piancó,São Luís,HOMICÍDIO DOLOSO
+1464,22/03/2020,masculino,47,07:15:00,ARMA DE FOGO,Residencial 2000,São Luís,HOMICÍDIO DOLOSO
+1465,27/03/2020,masculino,30,10:00:00,ARMA BRANCA,Vila Bacanga,São Luís,LATROCÍNIO
+1466,27/03/2020,masculino,30,05:50:00,ARMA DE FOGO,La Belle Park,Paço do Lumiar,HOMICÍDIO DOLOSO
+1467,27/03/2020,masculino,19,03:16:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+1468,27/03/2020,masculino,16,19:00:00,ARMA DE FOGO,São Brás dos Macacos,São José de Ribamar,HOMICÍDIO DOLOSO
+1469,27/03/2020,masculino,40,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1470,27/03/2020,masculino,20,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1471,27/03/2020,masculino,20,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1472,27/03/2020,masculino,22,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1473,27/03/2020,masculino,25,14:00:00,ARMA DE FOGO,Vila Esperança,São Luís,MORTE D I POLICIAL
+1474,29/03/2020,masculino,47,17:00:00,ARMA BRANCA,Conjunto Lima Verde,Paço do Lumiar,HOMICÍDIO DOLOSO
+1475,29/03/2020,masculino,21,21:13:00,ARMA BRANCA,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1476,29/03/2020,masculino,34,17:00:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1477,31/03/2020,masculino,22,01:30:00,ARMA BRANCA,Vila São José – PCL,Paço do Lumiar,HOMICÍDIO DOLOSO
+1478,01/04/2020,masculino,30,20:00:00,ARMA DE FOGO,Coroadinho,São Luís,HOMICÍDIO DOLOSO
+1479,02/04/2020,masculino,23,18:20:00,ARMA BRANCA,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1480,05/04/2020,masculino,34,16:27:00,ARMA DE FOGO,Residencial Morada do Sol,São Luís,HOMICÍDIO DOLOSO
+1481,05/04/2020,masculino,,12:00:00,OUTROS MEIOS,Vila Magril,São Luís,MORTE ESCLARECER
+1482,07/04/2020,feminino,56,11:15:00,OUTROS MEIOS,Parque Araçagi,São Luís,MORTE ESCLARECER
+1483,07/04/2020,masculino,18,04:30:00,ARMA DE FOGO,Vila Collier,São Luís,HOMICÍDIO DOLOSO
+1484,11/04/2020,masculino,24,19:30:00,ARMA DE FOGO,Residencial Canaã,São Luís,HOMICÍDIO DOLOSO
+1485,11/04/2020,masculino,25,12:30:00,OUTROS MEIOS,Olho D’água,São Luís,HOMICÍDIO DOLOSO
+1486,12/04/2020,masculino,36,01:00:00,ARMA DE FOGO,Conjunto Rio Anil,São Luís,HOMICÍDIO DOLOSO
+1487,17/04/2020,masculino,21,19:16:00,ARMA DE FOGO,Matinha,São José de Ribamar,HOMICÍDIO DOLOSO
+1488,17/04/2020,masculino,24,19:00:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1489,18/04/2020,masculino,19,21:56:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1490,18/04/2020,masculino,30,03:00:00,ARMA DE FOGO,Areinha,São Luís,HOMICÍDIO DOLOSO
+1491,19/04/2020,masculino,20,18:05:00,ARMA DE FOGO,Mata,São José de Ribamar,HOMICÍDIO DOLOSO
+1492,19/04/2020,masculino,22,03:30:00,ARMA DE FOGO,São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1493,22/04/2020,masculino,26,13:30:00,ARMA DE FOGO,Sítio Natureza,Paço do Lumiar,HOMICÍDIO DOLOSO
+1494,22/04/2020,masculino,17,18:40:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1495,22/04/2020,masculino,20,12:00:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1496,23/04/2020,masculino,38,17:27:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1497,25/04/2020,masculino,56,23:00:00,ARMA BRANCA,Rio Grande,São Luís,HOMICÍDIO DOLOSO
+1498,25/04/2020,masculino,14,02:00:00,ARMA DE FOGO,Vila Riod,São Luís,HOMICÍDIO DOLOSO
+1499,30/04/2020,masculino,39,23:00:00,ARMA BRANCA,Vila São Luís – Bacanga,São José de Ribamar,HOMICÍDIO DOLOSO
+1500,30/04/2020,masculino,50,02:00:00,OUTROS MEIOS,Aterro do bacanga,São Luís,HOMICÍDIO DOLOSO
+1501,04/05/2020,masculino,24,14:48:00,ARMA DE FOGO,Cidade Olímpica,São Luís,HOMICÍDIO DOLOSO
+1502,05/05/2020,feminino,25,18:00:00,OUTROS MEIOS,Santa Bárbara,São Luís,HOMICÍDIO DOLOSO
+1503,07/05/2020,masculino,40,20:23:00,ARMA DE FOGO,Gapara,São Luís,HOMICÍDIO DOLOSO
+1504,08/05/2020,masculino,34,19:30:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1505,09/05/2020,masculino,31,16:00:00,ARMA DE FOGO,Vila São Sebastião / coroadinho,São Luís,HOMICÍDIO DOLOSO
+1506,10/05/2020,masculino,38,08:40:00,ARMA DE FOGO,Camboa,São Luís,HOMICÍDIO DOLOSO
+1507,11/05/2020,masculino,40,15:45:00,ARMA DE FOGO,Liberdade,São Luís,HOMICÍDIO DOLOSO
+1508,11/05/2020,feminino,85,19:30:00,ESPANCAMENTO,Nova betel,São Luís,LATROCÍNIO
+1509,13/05/2020,masculino,25,14:20:00,ARMA DE FOGO,Rio grande,São Luís,HOMICÍDIO DOLOSO
+1510,15/05/2020,masculino,17,12:05:00,ARMA DE FOGO,Vila Cafeteira,Paço do Lumiar,HOMICÍDIO DOLOSO
+1511,15/05/2020,masculino,33,19:00:00,ARMA DE FOGO,Oiteiro,São José de Ribamar,HOMICÍDIO DOLOSO
+1512,15/05/2020,masculino,19,18:15:00,ARMA DE FOGO,Cruzeiro do anil,São Luís,HOMICÍDIO DOLOSO
+1513,15/05/2020,masculino,39,19:23:00,ARMA DE FOGO,Parque Jair,São José de Ribamar,HOMICÍDIO DOLOSO
+1514,16/05/2020,masculino,34,04:00:00,ARMA BRANCA,Res. João Alberto,São Luís,HOMICÍDIO DOLOSO
+1515,16/05/2020,masculino,22,13:30:00,ARMA DE FOGO,Jardim São Raimundo,São Luís,HOMICÍDIO DOLOSO
+1516,17/05/2020,masculino,44,18:47:00,ARMA BRANCA,Anjo da Guarda,São Luís,HOMICÍDIO DOLOSO
+1517,17/05/2020,masculino,17,19:42:00,ARMA DE FOGO,Vila dos nobres,São Luís,HOMICÍDIO DOLOSO
+1518,17/05/2020,masculino,37,19:30:00,ARMA DE FOGO,Alto São Sebastião,São Luís,HOMICÍDIO DOLOSO
+1519,17/05/2020,masculino,30,22:00:00,ARMA DE FOGO,Vila Alcione Ferreira,São José de Ribamar,HOMICÍDIO DOLOSO
+1520,17/05/2020,masculino,22,21:08:00,ARMA DE FOGO,Fátima,São Luís,HOMICÍDIO DOLOSO
+1521,17/05/2020,masculino,29,03:17:00,ARMA DE FOGO,Vila Isabel Cafeteira,São Luís,HOMICÍDIO DOLOSO
+1522,17/05/2020,masculino,25,02:00:00,OUTROS MEIOS,Centro,São Luís,HOMICÍDIO DOLOSO
+1523,18/05/2020,masculino,22,10:57:00,ARMA DE FOGO,Vila Funil,São Luís,MORTE D I POLICIAL
+1524,19/05/2020,masculino,17,06:00:00,ARMA DE FOGO,Alonso Costa,São José de Ribamar,MORTE D I POLICIAL
+1525,21/05/2020,masculino,24,21:50:00,ARMA DE FOGO,Parque Shalon,São Luís,HOMICÍDIO DOLOSO
+1526,21/05/2020,masculino,29,19:30:00,ARMA DE FOGO,Vila Dr. Julinho,São José de Ribamar,HOMICÍDIO DOLOSO
+1527,22/05/2020,masculino,21,19:20:00,ARMA DE FOGO,João Paulo,São Luís,HOMICÍDIO DOLOSO
+1528,22/05/2020,masculino,22,18:30:00,ARMA DE FOGO,Bom Jesus,São Luís,HOMICÍDIO DOLOSO
+1529,23/05/2020,masculino,33,13:33:00,ARMA DE FOGO,Parque Araçagy,Paço do Lumiar,MORTE D I POLICIAL
+1530,25/05/2020,masculino,35,20:16:00,ARMA DE FOGO,Vila Magril,São Luís,HOMICÍDIO DOLOSO
+1531,25/05/2020,masculino,22,06:37:00,ARMA DE FOGO,,,MORTE ESCLARECER
+1532,26/05/2020,masculino,24,19:30:00,ARMA DE FOGO,Barramar,São Luís,HOMICÍDIO DOLOSO
+1533,26/05/2020,masculino,34,18:30:00,ARMA DE FOGO,Vila Cafeteira,São José de Ribamar,HOMICÍDIO DOLOSO
+1534,26/05/2020,feminino,66,10:00:00,OUTROS MEIOS,Recanto dos Signos,São Luís,HOMICÍDIO DOLOSO
+1535,31/05/2020,masculino,17,15:53:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
+1536,31/05/2020,masculino,15,15:53:00,ARMA DE FOGO,Cidade Operária,São Luís,HOMICÍDIO DOLOSO
