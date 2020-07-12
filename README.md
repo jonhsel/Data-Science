@@ -26,6 +26,7 @@ Sou Engenheiro de Computação pela Universidade Estadual do Maranhão, com habi
 ## Projetos elaborados:
 * Análise Exploratória de Dados - Airbnb: https://bit.ly/37ef1GK
 * Covid-19 no Brasil e no Mundo - Análise de dados: https://bit.ly/2BOL30c
+* Machine Learning - Detecção de Fraudes em cartões de crédito: https://bit.ly/328ZgAv
 
 ---
 
